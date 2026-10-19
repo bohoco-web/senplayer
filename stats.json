@@ -1,0 +1,111 @@
+{
+ "generated": "2026-10-19 08:59",
+ "base": "https://bohoco-web.github.io/senplayer/",
+ "files": [
+  {
+   "name": "iptv-cn.m3u",
+   "label": "全部频道",
+   "group": "中国大陆",
+   "count": "842 条",
+   "size": 177563
+  },
+  {
+   "name": "iptv-hmt.m3u",
+   "label": "港澳台频道",
+   "group": "港澳台",
+   "count": "20 条",
+   "size": 4509
+  },
+  {
+   "name": "iptv-cctv.m3u",
+   "label": "央视",
+   "group": "分类册",
+   "count": "54 条",
+   "size": 12097
+  },
+  {
+   "name": "iptv-satellite.m3u",
+   "label": "卫视",
+   "group": "分类册",
+   "count": "121 条",
+   "size": 29138
+  },
+  {
+   "name": "iptv-province.m3u",
+   "label": "省台",
+   "group": "分类册",
+   "count": "109 条",
+   "size": 22793
+  },
+  {
+   "name": "iptv-city.m3u",
+   "label": "城市台",
+   "group": "分类册",
+   "count": "558 条",
+   "size": 114006
+  },
+  {
+   "name": "iptv-intl.m3u",
+   "label": "国际全量",
+   "group": "国际频道",
+   "count": "11356 条",
+   "size": 3524071
+  },
+  {
+   "name": "iptv-intl-ok.m3u",
+   "label": "国际·测活后",
+   "group": "国际频道",
+   "count": "2469 条",
+   "size": 734296
+  },
+  {
+   "name": "iptv-daino.m3u",
+   "label": "分级版",
+   "group": "外部订阅",
+   "count": "1224 条",
+   "size": 213346
+  },
+  {
+   "name": "iptv-daino-raw.m3u",
+   "label": "原始备份",
+   "group": "外部订阅",
+   "count": "1224 条",
+   "size": 208450
+  },
+  {
+   "name": "vidhub.m3u",
+   "label": "影视全部",
+   "group": "影视片单",
+   "count": "3438 条",
+   "size": 832573
+  },
+  {
+   "name": "vidhub-movie.m3u",
+   "label": "电影",
+   "group": "影视片单",
+   "count": "829 条",
+   "size": 216268
+  },
+  {
+   "name": "vidhub-series.m3u",
+   "label": "剧集",
+   "group": "影视片单",
+   "count": "1253 条",
+   "size": 294863
+  },
+  {
+   "name": "vidhub-variety.m3u",
+   "label": "综艺",
+   "group": "影视片单",
+   "count": "672 条",
+   "size": 158576
+  },
+  {
+   "name": "vidhub-anime.m3u",
+   "label": "动漫",
+   "group": "影视片单",
+   "count": "678 条",
+   "size": 162097
+  }
+ ]
+}

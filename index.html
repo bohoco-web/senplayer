@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>SenPlayer 订阅</title>
+<style>
+  :root{
+    --bg:#f5f5f7; --card:#ffffff; --text:#1d1d1f; --sub:#6e6e73;
+    --line:rgba(0,0,0,.08); --tint:#0071e3; --fill:rgba(120,120,128,.12);
+    --ok:#1c8c4a;
+  }
+  @media (prefers-color-scheme: dark){
+    :root{
+      --bg:#000000; --card:#1c1c1e; --text:#f5f5f7; --sub:#98989d;
+      --line:rgba(255,255,255,.1); --tint:#0a84ff; --fill:rgba(120,120,128,.24);
+      --ok:#32d74b;
+    }
+  }
+  *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+  body{
+    margin:0;padding:32px 18px 56px;background:var(--bg);color:var(--text);
+    font:15px/1.5 -apple-system,BlinkMacSystemFont,"SF Pro SC","PingFang SC",system-ui,sans-serif;
+    -webkit-font-smoothing:antialiased;
+  }
+  .wrap{max-width:640px;margin:0 auto}
+  header{margin-bottom:26px}
+  h1{font-size:28px;line-height:1.2;letter-spacing:-.02em;margin:0 0 6px;font-weight:600}
+  .meta{color:var(--sub);font-size:13px}
+  h2{
+    font-size:12px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;
+    color:var(--sub);margin:30px 0 9px;padding-left:4px;
+  }
+  .card{background:var(--card);border-radius:14px;overflow:hidden;border:1px solid var(--line)}
+  .row{
+    display:flex;align-items:center;gap:12px;padding:13px 14px;
+    border-bottom:1px solid var(--line);
+  }
+  .row:last-child{border-bottom:none}
+  .name{flex:1;min-width:0}
+  .name b{display:block;font-weight:500;font-size:15px;letter-spacing:-.01em}
+  .name span{display:block;color:var(--sub);font-size:12px;margin-top:1px}
+  .cnt{
+    font-size:11px;font-variant-numeric:tabular-nums;color:var(--sub);
+    background:var(--fill);border-radius:20px;padding:3px 8px;white-space:nowrap;
+  }
+  button{
+    flex:none;width:32px;height:32px;border-radius:50%;border:none;cursor:pointer;
+    background:var(--fill);color:var(--text);display:grid;place-items:center;
+    transition:background .15s, transform .1s;
+  }
+  button:hover{background:rgba(120,120,128,.22)}
+  button:active{transform:scale(.92)}
+  button.done{background:var(--ok);color:#fff}
+  svg{width:15px;height:15px;display:block}
+  footer{margin-top:34px;color:var(--sub);font-size:12.5px;line-height:1.7}
+  footer code{
+    font:12px/1.4 ui-monospace,SFMono-Regular,Menlo,monospace;
+    background:var(--fill);padding:1px 5px;border-radius:5px;
+  }
+  .toast{
+    position:fixed;left:50%;bottom:28px;transform:translate(-50%,20px);
+    background:var(--text);color:var(--bg);font-size:13px;font-weight:500;
+    padding:9px 18px;border-radius:20px;opacity:0;pointer-events:none;
+    transition:opacity .2s,transform .2s;
+  }
+  .toast.on{opacity:1;transform:translate(-50%,0)}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>SenPlayer 订阅</h1>
+    <div class="meta" id="meta">加载中…</div>
+  </header>
+  <main id="list"></main>
+  <footer>
+    点右侧图标复制地址，粘到播放器的「订阅 / 远程订阅」里即可。
+    标记 <code>[A]</code> 流畅、<code>[B]</code> 一般、<code>[C]</code> 可能卡。
+  </footer>
+</div>
+<div class="toast" id="toast">已复制</div>
+
+<script>
+const ICON_COPY = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="12" height="12" rx="2.5"/><path d="M6 15H4.8A1.8 1.8 0 0 1 3 13.2V4.8A1.8 1.8 0 0 1 4.8 3h8.4A1.8 1.8 0 0 1 15 4.8V6"/></svg>';
+const ICON_OK = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg>';
+
+function esc(s){return String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));}
+
+async function main(){
+  let data;
+  try{
+    const r = await fetch('stats.json?t=' + Date.now());
+    data = await r.json();
+  }catch(e){
+    document.getElementById('meta').textContent = 'stats.json 读取失败';
+    return;
+  }
+  document.getElementById('meta').textContent =
+    `${data.files.length} 份片单 · 更新于 ${data.generated}`;
+
+  const groups = [...new Set(data.files.map(f => f.group))];
+  const main = document.getElementById('list');
+  main.innerHTML = groups.map(g => {
+    const rows = data.files.filter(f => f.group === g).map(f => `
+      <div class="row">
+        <div class="name"><b>${esc(f.label)}</b><span>${esc(f.name)}</span></div>
+        <div class="cnt">${f.count}</div>
+        <button data-url="${esc(data.base + f.name)}" aria-label="复制地址">${ICON_COPY}</button>
+      </div>`).join('');
+    return `<h2>${esc(g)}</h2><div class="card">${rows}</div>`;
+  }).join('');
+
+  main.addEventListener('click', async ev => {
+    const btn = ev.target.closest('button[data-url]');
+    if(!btn) return;
+    const url = btn.dataset.url;
+    try{
+      await navigator.clipboard.writeText(url);
+    }catch(e){
+      const ta = document.createElement('textarea');
+      ta.value = url; document.body.appendChild(ta); ta.select();
+      document.execCommand('copy'); ta.remove();
+    }
+    btn.classList.add('done'); btn.innerHTML = ICON_OK;
+    const t = document.getElementById('toast');
+    t.textContent = '已复制 ' + url.split('/').pop();
+    t.classList.add('on');
+    setTimeout(()=>{ btn.classList.remove('done'); btn.innerHTML = ICON_COPY; t.classList.remove('on'); }, 1400);
+  });
+}
+main();
+</script>
+</body>
+</html>
