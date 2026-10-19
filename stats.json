@@ -1,41 +1,41 @@
 {
- "generated": "2026-10-19 10:00",
+ "generated": "2026-10-19 15:01",
  "base": "https://bohoco-web.github.io/senplayer/",
  "files": [
   {
    "name": "vidhub.m3u",
    "label": "影视全部",
    "group": "影视片单",
-   "count": "3558 条",
-   "size": 861577
+   "count": "4160 条",
+   "size": 1006105
   },
   {
    "name": "vidhub-movie.m3u",
    "label": "电影",
    "group": "影视片单",
-   "count": "855 条",
-   "size": 223133
+   "count": "899 条",
+   "size": 234635
   },
   {
    "name": "vidhub-series.m3u",
    "label": "剧集",
    "group": "影视片单",
-   "count": "1303 条",
-   "size": 306435
+   "count": "1453 条",
+   "size": 341885
   },
   {
    "name": "vidhub-variety.m3u",
    "label": "综艺",
    "group": "影视片单",
-   "count": "685 条",
-   "size": 161730
+   "count": "779 条",
+   "size": 184265
   },
   {
    "name": "vidhub-anime.m3u",
    "label": "动漫",
    "group": "影视片单",
-   "count": "709 条",
-   "size": 169510
+   "count": "1023 条",
+   "size": 244552
   }
  ]
 }

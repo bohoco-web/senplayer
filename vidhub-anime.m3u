@@ -1,6 +1,6 @@
 #EXTM3U
-# 拆自 vidhub.m3u · 生成于 2026-10-19 09:58
-# 类别：动漫（709 条）
+# 拆自 vidhub.m3u · 生成于 2026-10-19 15:01
+# 类别：动漫（1023 条）
 # 这是「vidhub.m3u」全量片单按类别拆出来的一份，全量那份也还在。
 #EXTINF:-1 tvg-name="第01集" tvg-logo="https://img.lzipic.com/upload/vod/20260927-1/1b98672e653669e085a372bdc110d657.webp" group-title="动漫 · FX战士久留美",第01集
 https://v.lzcdn31.com/20260927/12053_9e2e9025/index.m3u8
@@ -36,6 +36,30 @@ https://v.lzcdn31.com/20260728/9029_2be2baf1/index.m3u8
 https://v.lzcdn31.com/20260804/9353_84f462d6/index.m3u8
 #EXTINF:-1 tvg-name="第06集" tvg-logo="https://img.lzipic.com/upload/vod/20260722-1/6ed81283062d35ae5b1bdbf0fd23dc6c.webp" group-title="动漫 · ​一念永恒完结季​",第06集
 https://v.lzcdn31.com/20260811/9689_3e5ae00b/index.m3u8
+#EXTINF:-1 tvg-name="第01集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-07-28/202607281785204638.jpg" group-title="动漫 · 一斩苍穹",第01集
+https://v.lzcdn31.com/20260728/9019_137c5d18/index.m3u8
+#EXTINF:-1 tvg-name="第02集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-07-28/202607281785204638.jpg" group-title="动漫 · 一斩苍穹",第02集
+https://v.lzcdn31.com/20260728/9018_61568eb5/index.m3u8
+#EXTINF:-1 tvg-name="第03集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-07-28/202607281785204638.jpg" group-title="动漫 · 一斩苍穹",第03集
+https://v.lzcdn31.com/20260804/9341_35b06532/index.m3u8
+#EXTINF:-1 tvg-name="第04集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-07-28/202607281785204638.jpg" group-title="动漫 · 一斩苍穹",第04集
+https://v.lzcdn31.com/20260811/9671_c685bf57/index.m3u8
+#EXTINF:-1 tvg-name="第05集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-07-28/202607281785204638.jpg" group-title="动漫 · 一斩苍穹",第05集
+https://v.lzcdn31.com/20260818/10019_a0af8701/index.m3u8
+#EXTINF:-1 tvg-name="第06集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-07-28/202607281785204638.jpg" group-title="动漫 · 一斩苍穹",第06集
+https://v.lzcdn31.com/20260825/10492_45dad961/index.m3u8
+#EXTINF:-1 tvg-name="第01集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-10-04/202610041791125456.jpg" group-title="动漫 · 一觉醒来坐拥神装和飞船，我决定以买一套独门独户的房子为目标作为佣兵自由地活下去",第01集
+https://v.lzcdn31.com/20261004/12356_f246e9e2/index.m3u8
+#EXTINF:-1 tvg-name="第02集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-10-04/202610041791125456.jpg" group-title="动漫 · 一觉醒来坐拥神装和飞船，我决定以买一套独门独户的房子为目标作为佣兵自由地活下去",第02集
+https://v.lzcdn31.com/20261011/12609_d1b763a2/index.m3u8
+#EXTINF:-1 tvg-name="第03集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-10-04/202610041791125456.jpg" group-title="动漫 · 一觉醒来坐拥神装和飞船，我决定以买一套独门独户的房子为目标作为佣兵自由地活下去",第03集
+https://v.lzcdn31.com/20261018/13217_ae980add/index.m3u8
+#EXTINF:-1 tvg-name="第01集" tvg-logo="https://img.lzipic.com/upload/vod/20261004-1/5be7c4bf0fbb55fc080c509474bb16f9.webp" group-title="动漫 · 七叶树王国的七名骑士",第01集
+https://v.lzcdn31.com/20261003/12283_e1585428/index.m3u8
+#EXTINF:-1 tvg-name="第02集" tvg-logo="https://img.lzipic.com/upload/vod/20261004-1/5be7c4bf0fbb55fc080c509474bb16f9.webp" group-title="动漫 · 七叶树王国的七名骑士",第02集
+https://v.lzcdn31.com/20261010/12571_3613c94e/index.m3u8
+#EXTINF:-1 tvg-name="第03集" tvg-logo="https://img.lzipic.com/upload/vod/20261004-1/5be7c4bf0fbb55fc080c509474bb16f9.webp" group-title="动漫 · 七叶树王国的七名骑士",第03集
+https://v.lzcdn31.com/20261017/13102_91b16e01/index.m3u8
 #EXTINF:-1 tvg-name="第01集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-10-12/202610121791767267.jpg" group-title="动漫 · 七龙珠超：比鲁斯",第01集
 https://v.lzcdn31.com/20261012/12628_b25bb8f4/index.m3u8
 #EXTINF:-1 tvg-name="第02集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-10-12/202610121791767267.jpg" group-title="动漫 · 七龙珠超：比鲁斯",第02集
@@ -192,6 +216,8 @@ https://v.lzv22.com/20251215/28873_3c4a0853/index.m3u8
 https://v.lzcdn31.com/20261004/12291_5da2a5cf/index.m3u8
 #EXTINF:-1 tvg-name="第02集" tvg-logo="https://fffgood.com/upload/vod/20261004-1/ea115c3d065714f25473d0d0c7f35247.jpg" group-title="动漫 · 借出去的魔力要用分期还款强制收回",第02集
 https://v.lzcdn31.com/20261011/12581_76ece835/index.m3u8
+#EXTINF:-1 tvg-name="第03集" tvg-logo="https://fffgood.com/upload/vod/20261004-1/ea115c3d065714f25473d0d0c7f35247.jpg" group-title="动漫 · 借出去的魔力要用分期还款强制收回",第03集
+https://v.lzcdn31.com/20261018/13186_3f3856e6/index.m3u8
 #EXTINF:-1 tvg-name="第01集" tvg-logo="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2877050220.jpg" group-title="动漫 · 假面骑士极狐",第01集
 https://vip.lz-cdn14.com/20220904/10551_0188e94e/index.m3u8
 #EXTINF:-1 tvg-name="第02集" tvg-logo="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2877050220.jpg" group-title="动漫 · 假面骑士极狐",第02集
@@ -204,10 +230,36 @@ https://vip.lz-cdn14.com/20220925/12102_3e767122/index.m3u8
 https://vip.lz-cdn14.com/20221002/12564_4b5f750f/index.m3u8
 #EXTINF:-1 tvg-name="第06集" tvg-logo="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2877050220.jpg" group-title="动漫 · 假面骑士极狐",第06集
 https://vip.lz-cdn14.com/20221009/13000_b0351366/index.m3u8
+#EXTINF:-1 tvg-name="第01集" tvg-logo="https://img.lzipic.com/upload/vod/20260906-1/f4c11285cdb86014fc0a4aab69b010f0.webp" group-title="动漫 · 假面骑士麦斯",第01集
+https://v.lzcdn31.com/20260906/11068_11493c35/index.m3u8
+#EXTINF:-1 tvg-name="第02集" tvg-logo="https://img.lzipic.com/upload/vod/20260906-1/f4c11285cdb86014fc0a4aab69b010f0.webp" group-title="动漫 · 假面骑士麦斯",第02集
+https://v.lzcdn31.com/20260913/11369_45862b9f/index.m3u8
+#EXTINF:-1 tvg-name="第03集" tvg-logo="https://img.lzipic.com/upload/vod/20260906-1/f4c11285cdb86014fc0a4aab69b010f0.webp" group-title="动漫 · 假面骑士麦斯",第03集
+https://v.lzcdn31.com/20260920/11662_89131009/index.m3u8
+#EXTINF:-1 tvg-name="第04集" tvg-logo="https://img.lzipic.com/upload/vod/20260906-1/f4c11285cdb86014fc0a4aab69b010f0.webp" group-title="动漫 · 假面骑士麦斯",第04集
+https://v.lzcdn31.com/20260927/12035_617d913c/index.m3u8
+#EXTINF:-1 tvg-name="第05集" tvg-logo="https://img.lzipic.com/upload/vod/20260906-1/f4c11285cdb86014fc0a4aab69b010f0.webp" group-title="动漫 · 假面骑士麦斯",第05集
+https://v.lzcdn31.com/20261004/12331_2faa2d61/index.m3u8
+#EXTINF:-1 tvg-name="第06集" tvg-logo="https://img.lzipic.com/upload/vod/20260906-1/f4c11285cdb86014fc0a4aab69b010f0.webp" group-title="动漫 · 假面骑士麦斯",第06集
+https://v.lzcdn31.com/20261011/12602_140ac3a5/index.m3u8
 #EXTINF:-1 tvg-name="第01集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-10-03/202610031791041519.jpg" group-title="动漫 · 僵尸搜寻中",第01集
 https://v.lzcdn31.com/20261004/12284_ec3bf38c/index.m3u8
 #EXTINF:-1 tvg-name="第02集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-10-03/202610031791041519.jpg" group-title="动漫 · 僵尸搜寻中",第02集
 https://v.lzcdn31.com/20261010/12578_99f7a22c/index.m3u8
+#EXTINF:-1 tvg-name="第03集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-10-03/202610031791041519.jpg" group-title="动漫 · 僵尸搜寻中",第03集
+https://v.lzcdn31.com/20261018/13180_eb79daca/index.m3u8
+#EXTINF:-1 tvg-name="第01集" tvg-logo="https://tupian.ffeiimg.com/upload/vod/20251228-1/3eef8c0614131a4872431d666a46547e.jpg" group-title="动漫 · 光阴之外",第01集
+https://v.lzv22.com/20251228/31653_71bd6949/index.m3u8
+#EXTINF:-1 tvg-name="第02集" tvg-logo="https://tupian.ffeiimg.com/upload/vod/20251228-1/3eef8c0614131a4872431d666a46547e.jpg" group-title="动漫 · 光阴之外",第02集
+https://v.lzv22.com/20251228/31655_69b5008a/index.m3u8
+#EXTINF:-1 tvg-name="第03集" tvg-logo="https://tupian.ffeiimg.com/upload/vod/20251228-1/3eef8c0614131a4872431d666a46547e.jpg" group-title="动漫 · 光阴之外",第03集
+https://v.lzv22.com/20260104/32197_1e0af129/index.m3u8
+#EXTINF:-1 tvg-name="第04集" tvg-logo="https://tupian.ffeiimg.com/upload/vod/20251228-1/3eef8c0614131a4872431d666a46547e.jpg" group-title="动漫 · 光阴之外",第04集
+https://v.lzv22.com/20260111/33116_98db5f91/index.m3u8
+#EXTINF:-1 tvg-name="第05集" tvg-logo="https://tupian.ffeiimg.com/upload/vod/20251228-1/3eef8c0614131a4872431d666a46547e.jpg" group-title="动漫 · 光阴之外",第05集
+https://v.lzcdn27.com/20260118/3383_fe90dad5/index.m3u8
+#EXTINF:-1 tvg-name="第06集" tvg-logo="https://tupian.ffeiimg.com/upload/vod/20251228-1/3eef8c0614131a4872431d666a46547e.jpg" group-title="动漫 · 光阴之外",第06集
+https://v.lzcdn27.com/20260125/3733_55ef7889/index.m3u8
 #EXTINF:-1 tvg-name="第01集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2025-04-02/202504021743561297.jpg" group-title="动漫 · 全民御兽：开局山海经，我横扫全球动态漫画",第01集
 https://cdn.yzzy27-play.com/20250422/293_53c3bce6/index.m3u8
 #EXTINF:-1 tvg-name="第02集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2025-04-02/202504021743561297.jpg" group-title="动漫 · 全民御兽：开局山海经，我横扫全球动态漫画",第02集
@@ -232,6 +284,16 @@ https://v.lzcdn27.com/20260318/6995_44c2d113/index.m3u8
 https://v.lzcdn27.com/20260318/6998_4d93375c/index.m3u8
 #EXTINF:-1 tvg-name="第06集" tvg-logo="https://img.lzipic.com/upload/vod/20260318-1/fbc8bfed646290cbec8aadac0dbe69f5.jpg" group-title="动漫 · 全民御兽：开局觉醒神话级天赋动态漫",第06集
 https://v.lzcdn27.com/20260318/6996_399fd27c/index.m3u8
+#EXTINF:-1 tvg-name="第01集" tvg-logo="https://pic3.yzzyimages.com/upload/vod/2024-10-25/202410251729823487.jpg" group-title="动漫 · 全民御兽：开局觉醒神话级天赋动态漫画",第01集
+https://svip.high25-playback.com/20241025/10015_e7e0bd6c/index.m3u8
+#EXTINF:-1 tvg-name="第02集" tvg-logo="https://pic3.yzzyimages.com/upload/vod/2024-10-25/202410251729823487.jpg" group-title="动漫 · 全民御兽：开局觉醒神话级天赋动态漫画",第02集
+https://svip.high25-playback.com/20241025/10014_fb9a24fd/index.m3u8
+#EXTINF:-1 tvg-name="第03集" tvg-logo="https://pic3.yzzyimages.com/upload/vod/2024-10-25/202410251729823487.jpg" group-title="动漫 · 全民御兽：开局觉醒神话级天赋动态漫画",第03集
+https://svip.yyzy-play.vip/20241101/15610_713d7e77/index.m3u8
+#EXTINF:-1 tvg-name="第04集" tvg-logo="https://pic3.yzzyimages.com/upload/vod/2024-10-25/202410251729823487.jpg" group-title="动漫 · 全民御兽：开局觉醒神话级天赋动态漫画",第04集
+https://svip.high24-playback.com/20241108/10100_133b4e71/index.m3u8
+#EXTINF:-1 tvg-name="第05集" tvg-logo="https://pic3.yzzyimages.com/upload/vod/2024-10-25/202410251729823487.jpg" group-title="动漫 · 全民御兽：开局觉醒神话级天赋动态漫画",第05集
+https://svip.high24-playback.com/20241115/10841_0c48cef6/index.m3u8
 #EXTINF:-1 tvg-name="第01集" tvg-logo="https://pic3.yzzyimages.com/upload/vod/2024-11-01/202411011730451887.jpg" group-title="动漫 · 全民末日：我！病毒君王动态漫画",第01集
 https://svip.high24-playback.com/20241101/9479_a1b3aa9e/index.m3u8
 #EXTINF:-1 tvg-name="第02集" tvg-logo="https://pic3.yzzyimages.com/upload/vod/2024-11-01/202411011730451887.jpg" group-title="动漫 · 全民末日：我！病毒君王动态漫画",第02集
@@ -280,6 +342,10 @@ https://v.lzv22.com/20260107/32930_b78d8404/index.m3u8
 https://v.lzv22.com/20260107/32934_a1c5c769/index.m3u8
 #EXTINF:-1 tvg-name="第06集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-01-07/202601071767757000.jpg" group-title="动漫 · 全民转职：无职的我终结了神明！动态漫",第06集
 https://v.lzv22.com/20260107/32933_ff894d70/index.m3u8
+#EXTINF:-1 tvg-name="第01集" tvg-logo="https://ps.ryzypics.com/upload/vod/20260418-1/e98dab99e4f5d881166f181b2de80f6b.jpg" group-title="动漫 · 全民转职：驭龙师是最弱职业？动态漫",第01集
+https://v.lzcdn27.com/20260418/8904_db7da459/index.m3u8
+#EXTINF:-1 tvg-name="第02集" tvg-logo="https://ps.ryzypics.com/upload/vod/20260418-1/e98dab99e4f5d881166f181b2de80f6b.jpg" group-title="动漫 · 全民转职：驭龙师是最弱职业？动态漫",第02集
+https://v.lzcdn27.com/20260418/8903_30e1f983/index.m3u8
 #EXTINF:-1 tvg-name="第03集" tvg-logo="https://ps.ryzypics.com/upload/vod/20260418-1/e98dab99e4f5d881166f181b2de80f6b.jpg" group-title="动漫 · 全民转职：驭龙师是最弱职业？动态漫",第03集
 https://v.lzcdn27.com/20260418/8906_6d51f943/index.m3u8
 #EXTINF:-1 tvg-name="第04集" tvg-logo="https://ps.ryzypics.com/upload/vod/20260418-1/e98dab99e4f5d881166f181b2de80f6b.jpg" group-title="动漫 · 全民转职：驭龙师是最弱职业？动态漫",第04集
@@ -310,6 +376,26 @@ https://v.lzcdn31.com/20261015/12997_e28c0b18/index.m3u8
 https://v.lzcdn31.com/20261009/12483_0e19a5e2/index.m3u8
 #EXTINF:-1 tvg-name="第02集" tvg-logo="https://img.lzipic.com/upload/vod/20261009-1/919bc4d754e35fde1cfd6c54be81e51e.webp" group-title="动漫 · 冰剑的魔术师将要统一世界第二季",第02集
 https://v.lzcdn31.com/20261016/13001_7c5c9bda/index.m3u8
+#EXTINF:-1 tvg-name="第01集" tvg-logo="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2610801866.jpg" group-title="动漫 · 凡人修仙传",第01集
+https://vip.ffzy-play9.com/20230104/32917_009575e7/index.m3u8
+#EXTINF:-1 tvg-name="第02集" tvg-logo="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2610801866.jpg" group-title="动漫 · 凡人修仙传",第02集
+https://vip.ffzy-play9.com/20230104/32915_2fb357b7/index.m3u8
+#EXTINF:-1 tvg-name="第03集" tvg-logo="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2610801866.jpg" group-title="动漫 · 凡人修仙传",第03集
+https://vip.ffzy-play9.com/20230104/32916_b0c09a03/index.m3u8
+#EXTINF:-1 tvg-name="第04集" tvg-logo="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2610801866.jpg" group-title="动漫 · 凡人修仙传",第04集
+https://vip.ffzy-play9.com/20230104/32918_6ec362e4/index.m3u8
+#EXTINF:-1 tvg-name="第05集" tvg-logo="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2610801866.jpg" group-title="动漫 · 凡人修仙传",第05集
+https://vip.ffzy-play9.com/20230104/32919_3ffddabe/index.m3u8
+#EXTINF:-1 tvg-name="第06集" tvg-logo="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2610801866.jpg" group-title="动漫 · 凡人修仙传",第06集
+https://vip.ffzy-play9.com/20230104/32920_67147d73/index.m3u8
+#EXTINF:-1 tvg-name="第02集" tvg-logo="https://img.liangzipic.com/upload/vod/20250208-1/90752e4ad2b9b095b14783a0e1df7e91.jpg" group-title="动漫 · 凡人修仙传2020",第02集
+https://vip.lz-cdn3.com/20220320/1032_72b45aa8/index.m3u8
+#EXTINF:-1 tvg-name="第03集" tvg-logo="https://img.liangzipic.com/upload/vod/20250208-1/90752e4ad2b9b095b14783a0e1df7e91.jpg" group-title="动漫 · 凡人修仙传2020",第03集
+https://vip.lz-cdn3.com/20220320/1033_35fb7a40/index.m3u8
+#EXTINF:-1 tvg-name="第04集" tvg-logo="https://img.liangzipic.com/upload/vod/20250208-1/90752e4ad2b9b095b14783a0e1df7e91.jpg" group-title="动漫 · 凡人修仙传2020",第04集
+https://vip.lz-cdn3.com/20220320/1034_0860d873/index.m3u8
+#EXTINF:-1 tvg-name="第05集" tvg-logo="https://img.liangzipic.com/upload/vod/20250208-1/90752e4ad2b9b095b14783a0e1df7e91.jpg" group-title="动漫 · 凡人修仙传2020",第05集
+https://vip.lz-cdn3.com/20220320/1035_b39c452c/index.m3u8
 #EXTINF:-1 tvg-name="第01集" tvg-logo="https://tupian.ffeiimg.com/upload/vod/20250415-1/c7dc2c9e569b2d50287d5178658526cc.jpg" group-title="动漫 · 动态漫画·全民诡异：开局掌握零元购",第01集
 https://v.lzv22.com/20250415/15587_7b7691cb/index.m3u8
 #EXTINF:-1 tvg-name="第02集" tvg-logo="https://tupian.ffeiimg.com/upload/vod/20250415-1/c7dc2c9e569b2d50287d5178658526cc.jpg" group-title="动漫 · 动态漫画·全民诡异：开局掌握零元购",第02集
@@ -334,6 +420,18 @@ https://v.lzcdn31.com/20260211/2044_b76d9adf/index.m3u8
 https://v.lzcdn31.com/20260211/2041_fdc3ffec/index.m3u8
 #EXTINF:-1 tvg-name="第06集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-01-14/202601141768353433.jpg" group-title="动漫 · 北斗神拳拳王军杂兵们的挽歌",第06集
 https://v.lzcdn27.com/20260217/5422_696e0127/index.m3u8
+#EXTINF:-1 tvg-name="第01集" tvg-logo="https://tupian.ffeiimg.com/upload/vod/20260809-1/83b4fabe431b1a9b049d63921dbb06b0.jpg" group-title="动漫 · 千金归来：我清算了枕边人",第01集
+https://cdn.yzzy30-play.com/20260823/58404_b995895f/index.m3u8
+#EXTINF:-1 tvg-name="第02集" tvg-logo="https://tupian.ffeiimg.com/upload/vod/20260809-1/83b4fabe431b1a9b049d63921dbb06b0.jpg" group-title="动漫 · 千金归来：我清算了枕边人",第02集
+https://cdn.yzzy30-play.com/20260823/58405_47e64eab/index.m3u8
+#EXTINF:-1 tvg-name="第03集" tvg-logo="https://tupian.ffeiimg.com/upload/vod/20260809-1/83b4fabe431b1a9b049d63921dbb06b0.jpg" group-title="动漫 · 千金归来：我清算了枕边人",第03集
+https://cdn.yzzy30-play.com/20260823/58406_243da4cd/index.m3u8
+#EXTINF:-1 tvg-name="第04集" tvg-logo="https://tupian.ffeiimg.com/upload/vod/20260809-1/83b4fabe431b1a9b049d63921dbb06b0.jpg" group-title="动漫 · 千金归来：我清算了枕边人",第04集
+https://cdn.yzzy30-play.com/20260823/58407_b23f7246/index.m3u8
+#EXTINF:-1 tvg-name="第05集" tvg-logo="https://tupian.ffeiimg.com/upload/vod/20260809-1/83b4fabe431b1a9b049d63921dbb06b0.jpg" group-title="动漫 · 千金归来：我清算了枕边人",第05集
+https://cdn.yzzy30-play.com/20260823/58408_d0975ebd/index.m3u8
+#EXTINF:-1 tvg-name="第06集" tvg-logo="https://tupian.ffeiimg.com/upload/vod/20260809-1/83b4fabe431b1a9b049d63921dbb06b0.jpg" group-title="动漫 · 千金归来：我清算了枕边人",第06集
+https://cdn.yzzy30-play.com/20260823/58409_ad59ff80/index.m3u8
 #EXTINF:-1 tvg-name="第01集" tvg-logo="https://img.lzipic.com/upload/vod/20251213-1/7ab85ef682309bbeddcdaa3109ad1300.jpg" group-title="动漫 · 原来我早就无敌了动态漫",第01集
 https://v.lzv22.com/20251213/27441_4495f618/index.m3u8
 #EXTINF:-1 tvg-name="第02集" tvg-logo="https://img.lzipic.com/upload/vod/20251213-1/7ab85ef682309bbeddcdaa3109ad1300.jpg" group-title="动漫 · 原来我早就无敌了动态漫",第02集
@@ -358,6 +456,66 @@ https://yzzy.play-cdn19.com/20231231/11743_e707d64e/index.m3u8
 https://yzzy.play-cdn19.com/20240101/11876_ea47179e/index.m3u8
 #EXTINF:-1 tvg-name="第06集" tvg-logo="https://pic1.imgyzzy.com/upload/vod/2023-12-29/202312291703815600.jpg" group-title="动漫 · 原来我早就无敌了动态漫画",第06集
 https://yzzy.play-cdn19.com/20240104/12545_b20a1c46/index.m3u8
+#EXTINF:-1 tvg-name="第01集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-02-01/202602011769923241.jpg" group-title="动漫 · 名侦探光之美少女！",第01集
+https://v.lzcdn27.com/20260201/4181_6bef8f9f/index.m3u8
+#EXTINF:-1 tvg-name="第02集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-02-01/202602011769923241.jpg" group-title="动漫 · 名侦探光之美少女！",第02集
+https://v.lzcdn27.com/20260208/4863_ec8d9f7f/index.m3u8
+#EXTINF:-1 tvg-name="第03集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-02-01/202602011769923241.jpg" group-title="动漫 · 名侦探光之美少女！",第03集
+https://v.lzcdn27.com/20260215/5290_fb0f526c/index.m3u8
+#EXTINF:-1 tvg-name="第04集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-02-01/202602011769923241.jpg" group-title="动漫 · 名侦探光之美少女！",第04集
+https://v.lzcdn27.com/20260222/5642_6ad1c787/index.m3u8
+#EXTINF:-1 tvg-name="第05集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-02-01/202602011769923241.jpg" group-title="动漫 · 名侦探光之美少女！",第05集
+https://v.lzcdn27.com/20260301/6033_5a959b37/index.m3u8
+#EXTINF:-1 tvg-name="第06集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-02-01/202602011769923241.jpg" group-title="动漫 · 名侦探光之美少女！",第06集
+https://v.lzcdn27.com/20260308/6423_3be749f1/index.m3u8
+#EXTINF:-1 tvg-name="第001集" tvg-logo="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2257391444.jpg" group-title="动漫 · 名侦探柯南",第001集
+https://vod.feifei-kan.com/20230219/7845_70d3ca5a/index.m3u8
+#EXTINF:-1 tvg-name="第002集" tvg-logo="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2257391444.jpg" group-title="动漫 · 名侦探柯南",第002集
+https://vod.feifei-kan.com/20230219/7846_147c8846/index.m3u8
+#EXTINF:-1 tvg-name="第003集" tvg-logo="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2257391444.jpg" group-title="动漫 · 名侦探柯南",第003集
+https://vod.feifei-kan.com/20230219/7847_ca482f23/index.m3u8
+#EXTINF:-1 tvg-name="第004集" tvg-logo="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2257391444.jpg" group-title="动漫 · 名侦探柯南",第004集
+https://vod.feifei-kan.com/20230219/7849_2f9b52fd/index.m3u8
+#EXTINF:-1 tvg-name="第005集" tvg-logo="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2257391444.jpg" group-title="动漫 · 名侦探柯南",第005集
+https://vod.feifei-kan.com/20230219/7848_16603c2a/index.m3u8
+#EXTINF:-1 tvg-name="第006集" tvg-logo="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2257391444.jpg" group-title="动漫 · 名侦探柯南",第006集
+https://vod.feifei-kan.com/20230219/7852_1926404b/index.m3u8
+#EXTINF:-1 tvg-name="第0001集" tvg-logo="https://inews.gtimg.com/newsapp_ls/0/14472499611/0" group-title="动漫 · 名侦探柯南国语",第0001集
+https://vip.ffzy-play9.com/20260724/45242_0338bf13/index.m3u8
+#EXTINF:-1 tvg-name="第0002集" tvg-logo="https://inews.gtimg.com/newsapp_ls/0/14472499611/0" group-title="动漫 · 名侦探柯南国语",第0002集
+https://vip.ffzy-play9.com/20260724/45243_b34157d4/index.m3u8
+#EXTINF:-1 tvg-name="第0003集" tvg-logo="https://inews.gtimg.com/newsapp_ls/0/14472499611/0" group-title="动漫 · 名侦探柯南国语",第0003集
+https://vip.ffzy-play9.com/20260724/45244_11ca704f/index.m3u8
+#EXTINF:-1 tvg-name="第0004集" tvg-logo="https://inews.gtimg.com/newsapp_ls/0/14472499611/0" group-title="动漫 · 名侦探柯南国语",第0004集
+https://vip.ffzy-play9.com/20260724/45245_f63d6b3e/index.m3u8
+#EXTINF:-1 tvg-name="第0005集" tvg-logo="https://inews.gtimg.com/newsapp_ls/0/14472499611/0" group-title="动漫 · 名侦探柯南国语",第0005集
+https://vip.ffzy-play9.com/20260724/45246_bdd3e228/index.m3u8
+#EXTINF:-1 tvg-name="第0006集" tvg-logo="https://inews.gtimg.com/newsapp_ls/0/14472499611/0" group-title="动漫 · 名侦探柯南国语",第0006集
+https://vip.ffzy-play9.com/20260724/45247_6e4e57e5/index.m3u8
+#EXTINF:-1 tvg-name="第01集" tvg-logo="https://puui.qpic.cn/vcover_vt_pic/0/hzgtnf6tbvfekfv1555149409/0" group-title="动漫 · 名侦探柯南国语版",第01集
+https://vip1.lz-cdn5.com/20220514/16465_24028022/index.m3u8
+#EXTINF:-1 tvg-name="第02集" tvg-logo="https://puui.qpic.cn/vcover_vt_pic/0/hzgtnf6tbvfekfv1555149409/0" group-title="动漫 · 名侦探柯南国语版",第02集
+https://vip1.lz-cdn5.com/20220514/16467_4fd0ef1b/index.m3u8
+#EXTINF:-1 tvg-name="第03集" tvg-logo="https://puui.qpic.cn/vcover_vt_pic/0/hzgtnf6tbvfekfv1555149409/0" group-title="动漫 · 名侦探柯南国语版",第03集
+https://vip1.lz-cdn5.com/20220514/16466_193886e9/index.m3u8
+#EXTINF:-1 tvg-name="第04集" tvg-logo="https://puui.qpic.cn/vcover_vt_pic/0/hzgtnf6tbvfekfv1555149409/0" group-title="动漫 · 名侦探柯南国语版",第04集
+https://vip1.lz-cdn5.com/20220514/16468_9fe69593/index.m3u8
+#EXTINF:-1 tvg-name="第05集" tvg-logo="https://puui.qpic.cn/vcover_vt_pic/0/hzgtnf6tbvfekfv1555149409/0" group-title="动漫 · 名侦探柯南国语版",第05集
+https://vip1.lz-cdn5.com/20220514/16470_cfe9fa95/index.m3u8
+#EXTINF:-1 tvg-name="第06集" tvg-logo="https://puui.qpic.cn/vcover_vt_pic/0/hzgtnf6tbvfekfv1555149409/0" group-title="动漫 · 名侦探柯南国语版",第06集
+https://vip1.lz-cdn5.com/20220514/16469_8e7c5fd6/index.m3u8
+#EXTINF:-1 tvg-name="第01集" tvg-logo="http://puui.qpic.cn/vcover_vt_pic/0/53q0eh78q97e4d11555149422/0" group-title="动漫 · 名侦探柯南日语版",第01集
+https://vip1.lz-cdn.com/20221122/39637_d8e37d2e/index.m3u8
+#EXTINF:-1 tvg-name="第02集" tvg-logo="http://puui.qpic.cn/vcover_vt_pic/0/53q0eh78q97e4d11555149422/0" group-title="动漫 · 名侦探柯南日语版",第02集
+https://vip1.lz-cdn.com/20221122/39638_f714c747/index.m3u8
+#EXTINF:-1 tvg-name="第03集" tvg-logo="http://puui.qpic.cn/vcover_vt_pic/0/53q0eh78q97e4d11555149422/0" group-title="动漫 · 名侦探柯南日语版",第03集
+https://vip1.lz-cdn.com/20221122/39639_6a0cabe7/index.m3u8
+#EXTINF:-1 tvg-name="第04集" tvg-logo="http://puui.qpic.cn/vcover_vt_pic/0/53q0eh78q97e4d11555149422/0" group-title="动漫 · 名侦探柯南日语版",第04集
+https://vip1.lz-cdn.com/20221122/39640_41ef6eff/index.m3u8
+#EXTINF:-1 tvg-name="第05集" tvg-logo="http://puui.qpic.cn/vcover_vt_pic/0/53q0eh78q97e4d11555149422/0" group-title="动漫 · 名侦探柯南日语版",第05集
+https://vip1.lz-cdn.com/20221122/39641_bd5412ab/index.m3u8
+#EXTINF:-1 tvg-name="第06集" tvg-logo="http://puui.qpic.cn/vcover_vt_pic/0/53q0eh78q97e4d11555149422/0" group-title="动漫 · 名侦探柯南日语版",第06集
+https://vip1.lz-cdn.com/20221122/39642_f7c0dd74/index.m3u8
 #EXTINF:-1 tvg-name="第01集" tvg-logo="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2616542123.jpg" group-title="动漫 · 吞噬星空",第01集
 https://vip.lz-cdn14.com/20220611/725_091bfe0c/index.m3u8
 #EXTINF:-1 tvg-name="第02集" tvg-logo="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2616542123.jpg" group-title="动漫 · 吞噬星空",第02集
@@ -368,10 +526,22 @@ https://vip.lz-cdn14.com/20220611/730_ede37591/index.m3u8
 https://vip.lz-cdn14.com/20220611/727_38742385/index.m3u8
 #EXTINF:-1 tvg-name="第06集" tvg-logo="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2616542123.jpg" group-title="动漫 · 吞噬星空",第06集
 https://vip.lz-cdn14.com/20220611/728_58b6cc46/index.m3u8
+#EXTINF:-1 tvg-name="第01集" tvg-logo="https://img.lzipic.com/upload/vod/20251004-1/e84cefb0ddbdfc817ef2abe943a25118.jpg" group-title="动漫 · 启运丹田：开局签到至尊丹田",第01集
+https://v.lzv22.com/20251004/23609_e6dee18b/index.m3u8
+#EXTINF:-1 tvg-name="第02集" tvg-logo="https://img.lzipic.com/upload/vod/20251004-1/e84cefb0ddbdfc817ef2abe943a25118.jpg" group-title="动漫 · 启运丹田：开局签到至尊丹田",第02集
+https://v.lzv22.com/20251004/23608_2c29b328/index.m3u8
+#EXTINF:-1 tvg-name="第04集" tvg-logo="https://img.lzipic.com/upload/vod/20251004-1/e84cefb0ddbdfc817ef2abe943a25118.jpg" group-title="动漫 · 启运丹田：开局签到至尊丹田",第04集
+https://v.lzv22.com/20251004/23606_204a19ca/index.m3u8
+#EXTINF:-1 tvg-name="第05集" tvg-logo="https://img.lzipic.com/upload/vod/20251004-1/e84cefb0ddbdfc817ef2abe943a25118.jpg" group-title="动漫 · 启运丹田：开局签到至尊丹田",第05集
+https://v.lzv22.com/20251008/23793_6307589e/index.m3u8
+#EXTINF:-1 tvg-name="第06集" tvg-logo="https://img.lzipic.com/upload/vod/20251004-1/e84cefb0ddbdfc817ef2abe943a25118.jpg" group-title="动漫 · 启运丹田：开局签到至尊丹田",第06集
+https://v.lzv22.com/20251011/23961_51f561c4/index.m3u8
 #EXTINF:-1 tvg-name="第01集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-10-11/202610111791730275.jpg" group-title="动漫 · 和没有信徒的女神大人一起攻略异世界",第01集
 https://v.lzcdn31.com/20261011/12613_f9aa0c5b/index.m3u8
 #EXTINF:-1 tvg-name="第02集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-10-11/202610111791730275.jpg" group-title="动漫 · 和没有信徒的女神大人一起攻略异世界",第02集
 https://v.lzcdn31.com/20261018/13220_72466f93/index.m3u8
+#EXTINF:-1 tvg-name="第01集" tvg-logo="https://img.feifeiimg.vip/upload/vod/20260829-1/d17ae2a871a049b6a2beba2f188a0a34.jpg" group-title="动漫 · 喵喵我爱我家第二季",第01集
+https://vip.ffzy-play10.com/20260829/71402_419fe77a/index.m3u8
 #EXTINF:-1 tvg-name="第02集" tvg-logo="https://img.feifeiimg.vip/upload/vod/20260829-1/d17ae2a871a049b6a2beba2f188a0a34.jpg" group-title="动漫 · 喵喵我爱我家第二季",第02集
 https://vip.ffzy-play10.com/20260829/71403_dc6247ff/index.m3u8
 #EXTINF:-1 tvg-name="第03集" tvg-logo="https://img.feifeiimg.vip/upload/vod/20260829-1/d17ae2a871a049b6a2beba2f188a0a34.jpg" group-title="动漫 · 喵喵我爱我家第二季",第03集
@@ -382,10 +552,28 @@ https://vip.ffzy-play10.com/20260829/71405_d3dd5b52/index.m3u8
 https://vip.ffzy-play10.com/20260829/71406_8e6ffab0/index.m3u8
 #EXTINF:-1 tvg-name="第06集" tvg-logo="https://img.feifeiimg.vip/upload/vod/20260829-1/d17ae2a871a049b6a2beba2f188a0a34.jpg" group-title="动漫 · 喵喵我爱我家第二季",第06集
 https://vip.ffzy-play10.com/20260829/71407_949e2042/index.m3u8
+#EXTINF:-1 tvg-name="第01集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-04-12/202604121775983247.jpg" group-title="动漫 · 夜樱家的大作战第二季",第01集
+https://v.lzcdn27.com/20260412/8598_ca1ba754/index.m3u8
+#EXTINF:-1 tvg-name="第02集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-04-12/202604121775983247.jpg" group-title="动漫 · 夜樱家的大作战第二季",第02集
+https://v.lzcdn27.com/20260419/9026_fc94c3ad/index.m3u8
+#EXTINF:-1 tvg-name="第04集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-04-12/202604121775983247.jpg" group-title="动漫 · 夜樱家的大作战第二季",第04集
+https://v.lzcdn27.com/20260503/9739_123d1688/index.m3u8
+#EXTINF:-1 tvg-name="第05集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-04-12/202604121775983247.jpg" group-title="动漫 · 夜樱家的大作战第二季",第05集
+https://v.lzcdn27.com/20260510/10117_b9495464/index.m3u8
 #EXTINF:-1 tvg-name="第01集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-10-11/202610111791707889.jpg" group-title="动漫 · 夜樱家的大作战第二季Part2",第01集
 https://vip.ffzy-plays.com/20261011/59361_59789a1c/index.m3u8
 #EXTINF:-1 tvg-name="第02集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-10-11/202610111791707889.jpg" group-title="动漫 · 夜樱家的大作战第二季Part2",第02集
 https://svip.feifei-play.com/20261018/46448_05ede5ce/index.m3u8
+#EXTINF:-1 tvg-name="第01集" tvg-logo="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2893904501.jpg" group-title="动漫 · 大主宰",第01集
+https://yzzy1.play-cdn16.com/20230630/11551_c780c030/index.m3u8
+#EXTINF:-1 tvg-name="第02集" tvg-logo="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2893904501.jpg" group-title="动漫 · 大主宰",第02集
+https://yzzy1.play-cdn16.com/20230630/11550_4cc52065/index.m3u8
+#EXTINF:-1 tvg-name="第03集" tvg-logo="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2893904501.jpg" group-title="动漫 · 大主宰",第03集
+https://yzzy1.play-cdn16.com/20230630/11549_cf8023c1/index.m3u8
+#EXTINF:-1 tvg-name="第05集" tvg-logo="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2893904501.jpg" group-title="动漫 · 大主宰",第05集
+https://yzzy.play-cdn18.com/20230714/526_db3421fa/index.m3u8
+#EXTINF:-1 tvg-name="第06集" tvg-logo="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2893904501.jpg" group-title="动漫 · 大主宰",第06集
+https://yzzy.play-cdn18.com/20230721/1147_d6a4b67e/index.m3u8
 #EXTINF:-1 tvg-name="第01集" tvg-logo="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2893904501.jpg" group-title="动漫 · 大主宰年番",第01集
 https://vip.lz-cdn14.com/20230630/25838_3bf08ec7/index.m3u8
 #EXTINF:-1 tvg-name="第02集" tvg-logo="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2893904501.jpg" group-title="动漫 · 大主宰年番",第02集
@@ -402,12 +590,20 @@ https://vip.lz-cdn14.com/20230721/27070_d87d0f5f/index.m3u8
 https://v.lzcdn31.com/20260718/8576_1497f742/index.m3u8
 #EXTINF:-1 tvg-name="第02集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-07-17/202607171784264136.jpg" group-title="动漫 · 大千小镇",第02集
 https://v.lzcdn31.com/20260724/8853_eba89837/index.m3u8
+#EXTINF:-1 tvg-name="第03集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-07-17/202607171784264136.jpg" group-title="动漫 · 大千小镇",第03集
+https://v.lzcdn31.com/20260731/9148_7ffb4809/index.m3u8
+#EXTINF:-1 tvg-name="第05集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-07-17/202607171784264136.jpg" group-title="动漫 · 大千小镇",第05集
+https://v.lzcdn31.com/20260807/9476_b46dd2f8/index.m3u8
+#EXTINF:-1 tvg-name="第06集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-07-17/202607171784264136.jpg" group-title="动漫 · 大千小镇",第06集
+https://v.lzcdn31.com/20260812/9725_87328f4d/index.m3u8
 #EXTINF:-1 tvg-name="第01集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-10-04/202610041791125322.jpg" group-title="动漫 · 大叔喜欢可爱小玩意2026",第01集
 https://v.lzcdn31.com/20261004/12357_f588c238/index.m3u8
 #EXTINF:-1 tvg-name="第02集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-10-04/202610041791125322.jpg" group-title="动漫 · 大叔喜欢可爱小玩意2026",第02集
 https://v.lzcdn31.com/20261011/12610_ce1ec7e5/index.m3u8
 #EXTINF:-1 tvg-name="第03集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-10-04/202610041791125322.jpg" group-title="动漫 · 大叔喜欢可爱小玩意2026",第03集
 https://v.lzcdn31.com/20261018/13218_bea07bca/index.m3u8
+#EXTINF:-1 tvg-name="第01集" tvg-logo="https://fffgood.com/upload/vod/20261004-1/20faccdb775de2cd6d78cf4a1407c7ce.jpg" group-title="动漫 · 大叔喜欢可爱小玩意动画版",第01集
+https://vip.ffzy-plays.com/20261004/59077_c15d1244/index.m3u8
 #EXTINF:-1 tvg-name="第02集" tvg-logo="https://fffgood.com/upload/vod/20261004-1/20faccdb775de2cd6d78cf4a1407c7ce.jpg" group-title="动漫 · 大叔喜欢可爱小玩意动画版",第02集
 https://vip.ffzy-plays.com/20261011/59370_cd8719a8/index.m3u8
 #EXTINF:-1 tvg-name="第03集" tvg-logo="https://fffgood.com/upload/vod/20261004-1/20faccdb775de2cd6d78cf4a1407c7ce.jpg" group-title="动漫 · 大叔喜欢可爱小玩意动画版",第03集
@@ -424,6 +620,14 @@ https://v.lzcdn31.com/20261001/12161_b24be0a8/index.m3u8
 https://v.lzcdn31.com/20261007/12422_674edd12/index.m3u8
 #EXTINF:-1 tvg-name="第06集" tvg-logo="https://img.lzipic.com/upload/vod/20260930-1/55490f89ee1b8072ac28c99938b27e24.webp" group-title="动漫 · 大夏守墓人",第06集
 https://v.lzcdn31.com/20261008/12459_15c313f4/index.m3u8
+#EXTINF:-1 tvg-name="第01集" tvg-logo="https://img.lzipic.com/upload/vod/20261003-1/9287bb524fca066eb9a92e846406db12.webp" group-title="动漫 · 大王饶命3",第01集
+https://v.lzcdn31.com/20261003/12236_a545c9c4/index.m3u8
+#EXTINF:-1 tvg-name="第02集" tvg-logo="https://img.lzipic.com/upload/vod/20261003-1/9287bb524fca066eb9a92e846406db12.webp" group-title="动漫 · 大王饶命3",第02集
+https://v.lzcdn31.com/20261003/12237_41679aaa/index.m3u8
+#EXTINF:-1 tvg-name="第03集" tvg-logo="https://img.lzipic.com/upload/vod/20261003-1/9287bb524fca066eb9a92e846406db12.webp" group-title="动漫 · 大王饶命3",第03集
+https://v.lzcdn31.com/20261003/12238_88f5f30c/index.m3u8
+#EXTINF:-1 tvg-name="第04集" tvg-logo="https://img.lzipic.com/upload/vod/20261003-1/9287bb524fca066eb9a92e846406db12.webp" group-title="动漫 · 大王饶命3",第04集
+https://v.lzcdn31.com/20261010/12543_1c4f21fd/index.m3u8
 #EXTINF:-1 tvg-name="第01集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-10-15/202610151792032324.jpg" group-title="动漫 · 大理寺日志3",第01集
 https://v.lzcdn31.com/20261015/12715_2c0c290b/index.m3u8
 #EXTINF:-1 tvg-name="第02集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-10-15/202610151792032324.jpg" group-title="动漫 · 大理寺日志3",第02集
@@ -464,6 +668,18 @@ https://v.lzcdn31.com/20260806/9427_14633c54/index.m3u8
 https://v.lzcdn31.com/20261005/12380_8382a7f7/index.m3u8
 #EXTINF:-1 tvg-name="第02集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-10-05/202610051791170728.jpg" group-title="动漫 · 女友的朋友",第02集
 https://v.lzcdn31.com/20261012/12629_85dd0601/index.m3u8
+#EXTINF:-1 tvg-name="第01集" tvg-logo="https://puui.qpic.cn/vcover_vt_pic/0/yl6lapwmmx5ivew1584947181675/220" group-title="动漫 · 妖神记",第01集
+https://vod.feifei-kan.com/20230116/6343_1a572bcb/index.m3u8
+#EXTINF:-1 tvg-name="第02集" tvg-logo="https://puui.qpic.cn/vcover_vt_pic/0/yl6lapwmmx5ivew1584947181675/220" group-title="动漫 · 妖神记",第02集
+https://vod.feifei-kan.com/20230116/6345_9079bbc1/index.m3u8
+#EXTINF:-1 tvg-name="第03集" tvg-logo="https://puui.qpic.cn/vcover_vt_pic/0/yl6lapwmmx5ivew1584947181675/220" group-title="动漫 · 妖神记",第03集
+https://vod.feifei-kan.com/20230116/6344_716cd458/index.m3u8
+#EXTINF:-1 tvg-name="第04集" tvg-logo="https://puui.qpic.cn/vcover_vt_pic/0/yl6lapwmmx5ivew1584947181675/220" group-title="动漫 · 妖神记",第04集
+https://vod.feifei-kan.com/20230116/6347_8097312b/index.m3u8
+#EXTINF:-1 tvg-name="第05集" tvg-logo="https://puui.qpic.cn/vcover_vt_pic/0/yl6lapwmmx5ivew1584947181675/220" group-title="动漫 · 妖神记",第05集
+https://vod.feifei-kan.com/20230116/6348_826790c6/index.m3u8
+#EXTINF:-1 tvg-name="第06集" tvg-logo="https://puui.qpic.cn/vcover_vt_pic/0/yl6lapwmmx5ivew1584947181675/220" group-title="动漫 · 妖神记",第06集
+https://vod.feifei-kan.com/20230116/6346_42f133df/index.m3u8
 #EXTINF:-1 tvg-name="第01集" tvg-logo="https://img.lzipic.com/upload/vod/20260718-1/6b183d79bca96c8f7ea8fb10dd9ab600.webp" group-title="动漫 · 妖神记第十季",第01集
 https://v.lzcdn31.com/20260718/8601_e6348f35/index.m3u8
 #EXTINF:-1 tvg-name="第02集" tvg-logo="https://img.lzipic.com/upload/vod/20260718-1/6b183d79bca96c8f7ea8fb10dd9ab600.webp" group-title="动漫 · 妖神记第十季",第02集
@@ -492,6 +708,8 @@ https://v.lzcdn31.com/20260823/10411_ebaf253f/index.m3u8
 https://v.lzcdn31.com/20261004/12286_b68165d6/index.m3u8
 #EXTINF:-1 tvg-name="第02集" tvg-logo="https://img.lzipic.com/upload/vod/20261004-1/ab8d44c454fdcba571ce6288e853cc1d.webp" group-title="动漫 · 学生会也有洞！",第02集
 https://v.lzcdn31.com/20261011/12580_c9598e67/index.m3u8
+#EXTINF:-1 tvg-name="第03集" tvg-logo="https://img.lzipic.com/upload/vod/20261004-1/ab8d44c454fdcba571ce6288e853cc1d.webp" group-title="动漫 · 学生会也有洞！",第03集
+https://v.lzcdn31.com/20261018/13184_34f2cb8a/index.m3u8
 #EXTINF:-1 tvg-name="第01集" tvg-logo="https://img.lzipic.com/upload/vod/20261003-1/749be408a90fa794b892b66d7e1f3912.webp" group-title="动漫 · 宝可梦地平线第三季国语",第01集
 https://v.lfthirtytwo.com/20261003/11298_2662b65b/index.m3u8
 #EXTINF:-1 tvg-name="第02集" tvg-logo="https://img.lzipic.com/upload/vod/20261003-1/749be408a90fa794b892b66d7e1f3912.webp" group-title="动漫 · 宝可梦地平线第三季国语",第02集
@@ -504,6 +722,16 @@ https://v.lfthirtytwo.com/20261003/11300_90ac67d9/index.m3u8
 https://v.lfthirtytwo.com/20261003/11296_6553a8e0/index.m3u8
 #EXTINF:-1 tvg-name="第06集" tvg-logo="https://img.lzipic.com/upload/vod/20261003-1/749be408a90fa794b892b66d7e1f3912.webp" group-title="动漫 · 宝可梦地平线第三季国语",第06集
 https://v.lfthirtytwo.com/20261003/11299_6974474d/index.m3u8
+#EXTINF:-1 tvg-name="第01集" tvg-logo="https://tupian.ffeiimg.com/upload/vod/20260814-1/4fb15fe1e4039fbbfa9baa446070d69d.jpg" group-title="动漫 · 封天契",第01集
+https://v.lzcdn31.com/20260814/9813_b5f808ee/index.m3u8
+#EXTINF:-1 tvg-name="第02集" tvg-logo="https://tupian.ffeiimg.com/upload/vod/20260814-1/4fb15fe1e4039fbbfa9baa446070d69d.jpg" group-title="动漫 · 封天契",第02集
+https://v.lzcdn31.com/20260814/9812_be947960/index.m3u8
+#EXTINF:-1 tvg-name="第03集" tvg-logo="https://tupian.ffeiimg.com/upload/vod/20260814-1/4fb15fe1e4039fbbfa9baa446070d69d.jpg" group-title="动漫 · 封天契",第03集
+https://v.lzcdn31.com/20260814/9811_fd082eb3/index.m3u8
+#EXTINF:-1 tvg-name="第04集" tvg-logo="https://tupian.ffeiimg.com/upload/vod/20260814-1/4fb15fe1e4039fbbfa9baa446070d69d.jpg" group-title="动漫 · 封天契",第04集
+https://v.lzcdn31.com/20260821/10277_3ca4e311/index.m3u8
+#EXTINF:-1 tvg-name="第06集" tvg-logo="https://tupian.ffeiimg.com/upload/vod/20260814-1/4fb15fe1e4039fbbfa9baa446070d69d.jpg" group-title="动漫 · 封天契",第06集
+https://v.lzcdn31.com/20260904/10958_170ab7bd/index.m3u8
 #EXTINF:-1 tvg-name="第01集" tvg-logo="https://img.lzipic.com/upload/vod/20260622-1/49f71c7ac0714ca50eb93704523e348c.jpg" group-title="动漫 · 小星帽尼欧欧",第01集
 https://v.lzcdn31.com/20260622/7605_91ff5c01/index.m3u8
 #EXTINF:-1 tvg-name="第02集" tvg-logo="https://img.lzipic.com/upload/vod/20260622-1/49f71c7ac0714ca50eb93704523e348c.jpg" group-title="动漫 · 小星帽尼欧欧",第02集
@@ -520,6 +748,8 @@ https://v.lzcdn31.com/20260623/7625_cb007794/index.m3u8
 https://v.lzcdn31.com/20261004/12333_04ebbcbb/index.m3u8
 #EXTINF:-1 tvg-name="第02集" tvg-logo="https://fffgood.com/upload/vod/20261004-1/de53eea21a637894ebd30b3178302792.jpg" group-title="动漫 · 小狸猫与小狐狸",第02集
 https://v.lzcdn31.com/20261011/12584_24baf396/index.m3u8
+#EXTINF:-1 tvg-name="第03集" tvg-logo="https://fffgood.com/upload/vod/20261004-1/de53eea21a637894ebd30b3178302792.jpg" group-title="动漫 · 小狸猫与小狐狸",第03集
+https://v.lzcdn31.com/20261018/13188_6f92ea1a/index.m3u8
 #EXTINF:-1 tvg-name="第01集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-07-16/202607161784204270.jpg" group-title="动漫 · 山海经之山海归序",第01集
 https://player.yzzyvip-35.com/20260716/10787_93d2641d/index.m3u8
 #EXTINF:-1 tvg-name="第02集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-07-16/202607161784204270.jpg" group-title="动漫 · 山海经之山海归序",第02集
@@ -582,6 +812,34 @@ https://v.lzcdn31.com/20261018/13219_07a5c933/index.m3u8
 https://v.lzcdn31.com/20261008/12451_e8bd71c4/index.m3u8
 #EXTINF:-1 tvg-name="第02集" tvg-logo="https://img.lzipic.com/upload/vod/20261008-1/904141bd1496806e419bbac19105c0b4.webp" group-title="动漫 · 归还者的魔法要特别第二季",第02集
 https://v.lzcdn31.com/20261015/12701_f721a0c8/index.m3u8
+#EXTINF:-1 tvg-name="第01集" tvg-logo="https://tupian.ffeiimg.com/upload/vod/20260809-1/2c240cd981a008772df4c53b1d8888e3.jpg" group-title="动漫 · 当上神明后，我带着信徒干翻了废土",第01集
+https://vip.ffzy-plays.com/20260809/56850_544223e2/index.m3u8
+#EXTINF:-1 tvg-name="第02集" tvg-logo="https://tupian.ffeiimg.com/upload/vod/20260809-1/2c240cd981a008772df4c53b1d8888e3.jpg" group-title="动漫 · 当上神明后，我带着信徒干翻了废土",第02集
+https://vip.ffzy-plays.com/20260809/56851_99d0b2e5/index.m3u8
+#EXTINF:-1 tvg-name="第03集" tvg-logo="https://tupian.ffeiimg.com/upload/vod/20260809-1/2c240cd981a008772df4c53b1d8888e3.jpg" group-title="动漫 · 当上神明后，我带着信徒干翻了废土",第03集
+https://vip.ffzy-plays.com/20260809/56852_bb879257/index.m3u8
+#EXTINF:-1 tvg-name="第04集" tvg-logo="https://tupian.ffeiimg.com/upload/vod/20260809-1/2c240cd981a008772df4c53b1d8888e3.jpg" group-title="动漫 · 当上神明后，我带着信徒干翻了废土",第04集
+https://vip.ffzy-plays.com/20260809/56853_d836f3a2/index.m3u8
+#EXTINF:-1 tvg-name="第05集" tvg-logo="https://tupian.ffeiimg.com/upload/vod/20260809-1/2c240cd981a008772df4c53b1d8888e3.jpg" group-title="动漫 · 当上神明后，我带着信徒干翻了废土",第05集
+https://vip.ffzy-plays.com/20260809/56854_d84366ed/index.m3u8
+#EXTINF:-1 tvg-name="第06集" tvg-logo="https://tupian.ffeiimg.com/upload/vod/20260809-1/2c240cd981a008772df4c53b1d8888e3.jpg" group-title="动漫 · 当上神明后，我带着信徒干翻了废土",第06集
+https://vip.ffzy-plays.com/20260809/56855_e5d478a8/index.m3u8
+#EXTINF:-1 tvg-name="第01集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-10-11/202610111791683795.jpg" group-title="动漫 · 恐怖收集者",第01集
+https://v.lzcdn31.com/20261011/12591_4dc3e6b1/index.m3u8
+#EXTINF:-1 tvg-name="第02集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-10-11/202610111791683795.jpg" group-title="动漫 · 恐怖收集者",第02集
+https://v.lzcdn31.com/20261018/13187_fb0634cf/index.m3u8
+#EXTINF:-1 tvg-name="第01集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-08-03/202608031785718889.jpg" group-title="动漫 · 成也萧河",第01集
+https://v.lzcdn31.com/20260803/9317_8ea6f122/index.m3u8
+#EXTINF:-1 tvg-name="第02集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-08-03/202608031785718889.jpg" group-title="动漫 · 成也萧河",第02集
+https://v.lzcdn31.com/20260803/9318_d72d5b53/index.m3u8
+#EXTINF:-1 tvg-name="第03集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-08-03/202608031785718889.jpg" group-title="动漫 · 成也萧河",第03集
+https://v.lzcdn31.com/20260803/9316_c6e78abc/index.m3u8
+#EXTINF:-1 tvg-name="第04集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-08-03/202608031785718889.jpg" group-title="动漫 · 成也萧河",第04集
+https://v.lzcdn31.com/20260810/9639_e7e2d05b/index.m3u8
+#EXTINF:-1 tvg-name="第05集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-08-03/202608031785718889.jpg" group-title="动漫 · 成也萧河",第05集
+https://v.lzcdn31.com/20260817/9936_01934203/index.m3u8
+#EXTINF:-1 tvg-name="第06集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-08-03/202608031785718889.jpg" group-title="动漫 · 成也萧河",第06集
+https://v.lzcdn31.com/20260824/10447_f256d76a/index.m3u8
 #EXTINF:-1 tvg-name="第01集" tvg-logo="https://img.lzipic.com/upload/vod/20260704-1/7abf2eba406d7cb599d415df83350355.webp" group-title="动漫 · 我家的弟弟们真是让您费心了",第01集
 https://v.lzcdn31.com/20260704/7958_16796fb8/index.m3u8
 #EXTINF:-1 tvg-name="第02集" tvg-logo="https://img.lzipic.com/upload/vod/20260704-1/7abf2eba406d7cb599d415df83350355.webp" group-title="动漫 · 我家的弟弟们真是让您费心了",第02集
@@ -594,6 +852,38 @@ https://v.lzcdn31.com/20260724/8876_77ae6779/index.m3u8
 https://v.lzcdn31.com/20260801/9200_be5b480d/index.m3u8
 #EXTINF:-1 tvg-name="第06集" tvg-logo="https://img.lzipic.com/upload/vod/20260704-1/7abf2eba406d7cb599d415df83350355.webp" group-title="动漫 · 我家的弟弟们真是让您费心了",第06集
 https://v.lzcdn31.com/20260807/9509_dee81568/index.m3u8
+#EXTINF:-1 tvg-name="第01集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2025-07-01/202507011751384228.jpg" group-title="动漫 · 我直播向亡灵老婆求婚",第01集
+https://cdn.yzzy28-play.com/20250701/7003_204904e4/index.m3u8
+#EXTINF:-1 tvg-name="第02集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2025-07-01/202507011751384228.jpg" group-title="动漫 · 我直播向亡灵老婆求婚",第02集
+https://cdn.yzzy28-play.com/20250701/7004_315b4df9/index.m3u8
+#EXTINF:-1 tvg-name="第03集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2025-07-01/202507011751384228.jpg" group-title="动漫 · 我直播向亡灵老婆求婚",第03集
+https://cdn.yzzy28-play.com/20250701/7005_f514cec8/index.m3u8
+#EXTINF:-1 tvg-name="第04集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2025-07-01/202507011751384228.jpg" group-title="动漫 · 我直播向亡灵老婆求婚",第04集
+https://cdn.yzzy28-play.com/20250701/7006_c1f75cc0/index.m3u8
+#EXTINF:-1 tvg-name="第05集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2025-07-01/202507011751384228.jpg" group-title="动漫 · 我直播向亡灵老婆求婚",第05集
+https://cdn.yzzy27-play.com/20250703/8923_fedc604d/index.m3u8
+#EXTINF:-1 tvg-name="第06集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2025-07-01/202507011751384228.jpg" group-title="动漫 · 我直播向亡灵老婆求婚",第06集
+https://cdn.yzzy27-play.com/20250705/9157_d6428eec/index.m3u8
+#EXTINF:-1 tvg-name="第01集" tvg-logo="https://img.lzipic.com/upload/vod/20251214-1/6452cfdc9f236672f712c04415a84339.jpg" group-title="动漫 · 我直播向亡灵老婆求婚动态漫",第01集
+https://v.lzv22.com/20251214/28044_bce9e76e/index.m3u8
+#EXTINF:-1 tvg-name="第02集" tvg-logo="https://img.lzipic.com/upload/vod/20251214-1/6452cfdc9f236672f712c04415a84339.jpg" group-title="动漫 · 我直播向亡灵老婆求婚动态漫",第02集
+https://v.lzv22.com/20251214/28045_f1042ca0/index.m3u8
+#EXTINF:-1 tvg-name="第03集" tvg-logo="https://img.lzipic.com/upload/vod/20251214-1/6452cfdc9f236672f712c04415a84339.jpg" group-title="动漫 · 我直播向亡灵老婆求婚动态漫",第03集
+https://v.lzv22.com/20251214/28043_33ec8180/index.m3u8
+#EXTINF:-1 tvg-name="第04集" tvg-logo="https://img.lzipic.com/upload/vod/20251214-1/6452cfdc9f236672f712c04415a84339.jpg" group-title="动漫 · 我直播向亡灵老婆求婚动态漫",第04集
+https://v.lzv22.com/20251214/28047_46fca50d/index.m3u8
+#EXTINF:-1 tvg-name="第05集" tvg-logo="https://img.lzipic.com/upload/vod/20251214-1/6452cfdc9f236672f712c04415a84339.jpg" group-title="动漫 · 我直播向亡灵老婆求婚动态漫",第05集
+https://v.lzv22.com/20251214/28048_0754f6fd/index.m3u8
+#EXTINF:-1 tvg-name="第06集" tvg-logo="https://img.lzipic.com/upload/vod/20251214-1/6452cfdc9f236672f712c04415a84339.jpg" group-title="动漫 · 我直播向亡灵老婆求婚动态漫",第06集
+https://v.lzv22.com/20251214/28046_5280a41e/index.m3u8
+#EXTINF:-1 tvg-name="第02集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2025-12-24/202512241766549055.jpg" group-title="动漫 · 我真没想重生啊动态漫",第02集
+https://v.lzcdn27.com/20260328/7663_ba09598d/index.m3u8
+#EXTINF:-1 tvg-name="第03集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2025-12-24/202512241766549055.jpg" group-title="动漫 · 我真没想重生啊动态漫",第03集
+https://v.lzcdn27.com/20260328/7662_6b3818ce/index.m3u8
+#EXTINF:-1 tvg-name="第04集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2025-12-24/202512241766549055.jpg" group-title="动漫 · 我真没想重生啊动态漫",第04集
+https://v.lzcdn27.com/20260328/7659_062e847e/index.m3u8
+#EXTINF:-1 tvg-name="第06集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2025-12-24/202512241766549055.jpg" group-title="动漫 · 我真没想重生啊动态漫",第06集
+https://v.lzcdn27.com/20260328/7664_40b91b7e/index.m3u8
 #EXTINF:-1 tvg-name="第01集" tvg-logo="https://img.lzipic.com/upload/vod/20251222-1/d3616efcefcca536ac6f09bd596700d3.jpg" group-title="动漫 · 我被困在同一天一千年动态漫",第01集
 https://v.lzv22.com/20251222/31325_50e43ab6/index.m3u8
 #EXTINF:-1 tvg-name="第02集" tvg-logo="https://img.lzipic.com/upload/vod/20251222-1/d3616efcefcca536ac6f09bd596700d3.jpg" group-title="动漫 · 我被困在同一天一千年动态漫",第02集
@@ -634,6 +924,20 @@ https://vip.ffzy-play9.com/20261013/50101_86a2e69c/index.m3u8
 https://v.lzcdn31.com/20261005/12362_3b63158d/index.m3u8
 #EXTINF:-1 tvg-name="第02集" tvg-logo="https://img.lzipic.com/upload/vod/20261005-1/6c116ba34f696b906fd70ca429a3e910.webp" group-title="动漫 · 战车椅子",第02集
 https://v.lzcdn31.com/20261011/12615_77635146/index.m3u8
+#EXTINF:-1 tvg-name="第03集" tvg-logo="https://img.lzipic.com/upload/vod/20261005-1/6c116ba34f696b906fd70ca429a3e910.webp" group-title="动漫 · 战车椅子",第03集
+https://v.lzcdn31.com/20261018/13223_55783740/index.m3u8
+#EXTINF:-1 tvg-name="第01集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2025-11-02/202511021762050317.jpg" group-title="动漫 · 技能无限增幅，爽得我不想当辅助了！动态漫画",第01集
+https://cdn.yzzyvip-29.com/20251102/7419_54eea697/index.m3u8
+#EXTINF:-1 tvg-name="第02集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2025-11-02/202511021762050317.jpg" group-title="动漫 · 技能无限增幅，爽得我不想当辅助了！动态漫画",第02集
+https://cdn.yzzyvip-29.com/20251102/7420_968c9b4f/index.m3u8
+#EXTINF:-1 tvg-name="第03集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2025-11-02/202511021762050317.jpg" group-title="动漫 · 技能无限增幅，爽得我不想当辅助了！动态漫画",第03集
+https://cdn.yzzyvip-29.com/20251102/7421_b9acb4ae/index.m3u8
+#EXTINF:-1 tvg-name="第04集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2025-11-02/202511021762050317.jpg" group-title="动漫 · 技能无限增幅，爽得我不想当辅助了！动态漫画",第04集
+https://cdn.yzzyvip-29.com/20251102/7422_52aaa62e/index.m3u8
+#EXTINF:-1 tvg-name="第05集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2025-11-02/202511021762050317.jpg" group-title="动漫 · 技能无限增幅，爽得我不想当辅助了！动态漫画",第05集
+https://cdn.yzzyvip-29.com/20251102/7423_8fe04df4/index.m3u8
+#EXTINF:-1 tvg-name="第06集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2025-11-02/202511021762050317.jpg" group-title="动漫 · 技能无限增幅，爽得我不想当辅助了！动态漫画",第06集
+https://cdn.yzzyvip-29.com/20251102/7424_42082496/index.m3u8
 #EXTINF:-1 tvg-name="第01集" tvg-logo="https://tupian.ffeiimg.com/upload/vod/20260405-1/c9c7013102bace9321dcfc947d7408d3.jpg" group-title="动漫 · 拜托了偶像公主",第01集
 https://v.lzcdn27.com/20260405/8225_cc995776/index.m3u8
 #EXTINF:-1 tvg-name="第02集" tvg-logo="https://tupian.ffeiimg.com/upload/vod/20260405-1/c9c7013102bace9321dcfc947d7408d3.jpg" group-title="动漫 · 拜托了偶像公主",第02集
@@ -646,6 +950,28 @@ https://v.lzcdn27.com/20260426/9352_3048b98c/index.m3u8
 https://v.lzcdn27.com/20260503/9741_eec50b29/index.m3u8
 #EXTINF:-1 tvg-name="第06集" tvg-logo="https://tupian.ffeiimg.com/upload/vod/20260405-1/c9c7013102bace9321dcfc947d7408d3.jpg" group-title="动漫 · 拜托了偶像公主",第06集
 https://v.lzcdn27.com/20260510/10121_9242b67a/index.m3u8
+#EXTINF:-1 tvg-name="第01集" tvg-logo="https://tupian.ffeiimg.com/upload/vod/20260718-1/fa3274005299eb196b4ce261e3c297c7.jpg" group-title="动漫 · 择日飞升",第01集
+https://v.lzcdn31.com/20260718/8607_f9a56676/index.m3u8
+#EXTINF:-1 tvg-name="第02集" tvg-logo="https://tupian.ffeiimg.com/upload/vod/20260718-1/fa3274005299eb196b4ce261e3c297c7.jpg" group-title="动漫 · 择日飞升",第02集
+https://v.lzcdn31.com/20260718/8606_57a037c0/index.m3u8
+#EXTINF:-1 tvg-name="第03集" tvg-logo="https://tupian.ffeiimg.com/upload/vod/20260718-1/fa3274005299eb196b4ce261e3c297c7.jpg" group-title="动漫 · 择日飞升",第03集
+https://v.lzcdn31.com/20260718/8605_1aa71db4/index.m3u8
+#EXTINF:-1 tvg-name="第04集" tvg-logo="https://tupian.ffeiimg.com/upload/vod/20260718-1/fa3274005299eb196b4ce261e3c297c7.jpg" group-title="动漫 · 择日飞升",第04集
+https://v.lzcdn31.com/20260725/8899_abe36c58/index.m3u8
+#EXTINF:-1 tvg-name="第06集" tvg-logo="https://tupian.ffeiimg.com/upload/vod/20260718-1/fa3274005299eb196b4ce261e3c297c7.jpg" group-title="动漫 · 择日飞升",第06集
+https://v.lzcdn31.com/20260808/9514_eed50b87/index.m3u8
+#EXTINF:-1 tvg-name="第01集" tvg-logo="https://img24.pplive.cn/2017/08/02/16133942329_230X306.jpg" group-title="动漫 · 拳皇命运",第01集
+https://vip.ffzy-play10.com/20261017/73771_a1654a3a/index.m3u8
+#EXTINF:-1 tvg-name="第02集" tvg-logo="https://img24.pplive.cn/2017/08/02/16133942329_230X306.jpg" group-title="动漫 · 拳皇命运",第02集
+https://vip.ffzy-play10.com/20261017/73772_bdae89f8/index.m3u8
+#EXTINF:-1 tvg-name="第03集" tvg-logo="https://img24.pplive.cn/2017/08/02/16133942329_230X306.jpg" group-title="动漫 · 拳皇命运",第03集
+https://vip.ffzy-play10.com/20261017/73773_446e520c/index.m3u8
+#EXTINF:-1 tvg-name="第04集" tvg-logo="https://img24.pplive.cn/2017/08/02/16133942329_230X306.jpg" group-title="动漫 · 拳皇命运",第04集
+https://vip.ffzy-play10.com/20261017/73774_52ec3bae/index.m3u8
+#EXTINF:-1 tvg-name="第05集" tvg-logo="https://img24.pplive.cn/2017/08/02/16133942329_230X306.jpg" group-title="动漫 · 拳皇命运",第05集
+https://vip.ffzy-play10.com/20261017/73775_22ec872e/index.m3u8
+#EXTINF:-1 tvg-name="第06集" tvg-logo="https://img24.pplive.cn/2017/08/02/16133942329_230X306.jpg" group-title="动漫 · 拳皇命运",第06集
+https://vip.ffzy-play10.com/20261017/73776_8ad297da/index.m3u8
 #EXTINF:-1 tvg-name="第01集" tvg-logo="https://fffgood.com/upload/vod/20230210-1/3178784c9dd75ad794eb7c0928f9fe4d.jpg" group-title="动漫 · 拳皇命运日语",第01集
 https://vip.ffzy-play10.com/20261017/73795_8fafae2e/index.m3u8
 #EXTINF:-1 tvg-name="第02集" tvg-logo="https://fffgood.com/upload/vod/20230210-1/3178784c9dd75ad794eb7c0928f9fe4d.jpg" group-title="动漫 · 拳皇命运日语",第02集
@@ -656,6 +982,8 @@ https://vip.ffzy-play10.com/20261017/73797_1065941a/index.m3u8
 https://vip.ffzy-play10.com/20261017/73798_d12cfd57/index.m3u8
 #EXTINF:-1 tvg-name="第05集" tvg-logo="https://fffgood.com/upload/vod/20230210-1/3178784c9dd75ad794eb7c0928f9fe4d.jpg" group-title="动漫 · 拳皇命运日语",第05集
 https://vip.ffzy-play10.com/20261017/73799_5c5451c8/index.m3u8
+#EXTINF:-1 tvg-name="第06集" tvg-logo="https://fffgood.com/upload/vod/20230210-1/3178784c9dd75ad794eb7c0928f9fe4d.jpg" group-title="动漫 · 拳皇命运日语",第06集
+https://vip.ffzy-play10.com/20261017/73800_366893c1/index.m3u8
 #EXTINF:-1 tvg-name="第01集" tvg-logo="https://m.ykimg.com/05260000628F45BF1408C2091BE6B9D6" group-title="动漫 · 掌门低调点",第01集
 https://vip.ffzy-plays.com/20260807/56755_15037e26/index.m3u8
 #EXTINF:-1 tvg-name="第02集" tvg-logo="https://m.ykimg.com/05260000628F45BF1408C2091BE6B9D6" group-title="动漫 · 掌门低调点",第02集
@@ -668,6 +996,12 @@ https://vip.ffzy-plays.com/20260807/56758_d1d96cec/index.m3u8
 https://vip.ffzy-plays.com/20260807/56759_0f4f2759/index.m3u8
 #EXTINF:-1 tvg-name="第06集" tvg-logo="https://m.ykimg.com/05260000628F45BF1408C2091BE6B9D6" group-title="动漫 · 掌门低调点",第06集
 https://vip.ffzy-plays.com/20260808/56794_67f6d2e9/index.m3u8
+#EXTINF:-1 tvg-name="第03集" tvg-logo="https://img.lzipic.com/upload/vod/20251213-1/0e95930101b1915ac1fb1d8f2f43f5b9.jpg" group-title="动漫 · 掌门低调点动态漫第三季动态漫",第03集
+https://v.lzv22.com/20251213/27798_eda8f7c3/index.m3u8
+#EXTINF:-1 tvg-name="第04集" tvg-logo="https://img.lzipic.com/upload/vod/20251213-1/0e95930101b1915ac1fb1d8f2f43f5b9.jpg" group-title="动漫 · 掌门低调点动态漫第三季动态漫",第04集
+https://v.lzv22.com/20251213/27800_2440065f/index.m3u8
+#EXTINF:-1 tvg-name="第05集" tvg-logo="https://img.lzipic.com/upload/vod/20251213-1/0e95930101b1915ac1fb1d8f2f43f5b9.jpg" group-title="动漫 · 掌门低调点动态漫第三季动态漫",第05集
+https://v.lzv22.com/20251213/27799_b140a753/index.m3u8
 #EXTINF:-1 tvg-name="第01集" tvg-logo="https://img.lzipic.com/upload/vod/20260807-1/752eda0cc4798deb71ce17eccb3d9099.webp" group-title="动漫 · 掌门低调点动漫",第01集
 https://v.lzcdn31.com/20260807/9473_5dea7474/index.m3u8
 #EXTINF:-1 tvg-name="第02集" tvg-logo="https://img.lzipic.com/upload/vod/20260807-1/752eda0cc4798deb71ce17eccb3d9099.webp" group-title="动漫 · 掌门低调点动漫",第02集
@@ -680,6 +1014,34 @@ https://v.lzcdn31.com/20260807/9475_998b5c9c/index.m3u8
 https://v.lzcdn31.com/20260807/9471_be85b08d/index.m3u8
 #EXTINF:-1 tvg-name="第06集" tvg-logo="https://img.lzipic.com/upload/vod/20260807-1/752eda0cc4798deb71ce17eccb3d9099.webp" group-title="动漫 · 掌门低调点动漫",第06集
 https://v.lzcdn31.com/20260808/9551_23cc3ba9/index.m3u8
+#EXTINF:-1 tvg-name="第01集" tvg-logo="https://tupian.ffeiimg.com/upload/vod/20260704-1/d7a5a5db72f0b517b68257c988f38d50.jpg" group-title="动漫 · 提欧奥特曼",第01集
+https://cdn.yzzy27-play.com/20260704/26900_263d3fea/index.m3u8
+#EXTINF:-1 tvg-name="第02集" tvg-logo="https://tupian.ffeiimg.com/upload/vod/20260704-1/d7a5a5db72f0b517b68257c988f38d50.jpg" group-title="动漫 · 提欧奥特曼",第02集
+https://player.yzzyvip-35.com/20260711/10573_17446a8a/index.m3u8
+#EXTINF:-1 tvg-name="第03集" tvg-logo="https://tupian.ffeiimg.com/upload/vod/20260704-1/d7a5a5db72f0b517b68257c988f38d50.jpg" group-title="动漫 · 提欧奥特曼",第03集
+https://cdn.vvvip-plays33.cc/20260718/15743_cc685cba/index.m3u8
+#EXTINF:-1 tvg-name="第04集" tvg-logo="https://tupian.ffeiimg.com/upload/vod/20260704-1/d7a5a5db72f0b517b68257c988f38d50.jpg" group-title="动漫 · 提欧奥特曼",第04集
+https://player.yzzyvip-35.com/20260725/11627_c2818079/index.m3u8
+#EXTINF:-1 tvg-name="第05集" tvg-logo="https://tupian.ffeiimg.com/upload/vod/20260704-1/d7a5a5db72f0b517b68257c988f38d50.jpg" group-title="动漫 · 提欧奥特曼",第05集
+https://cdn.vvvip-plays33.cc/20260801/15942_68230fb5/index.m3u8
+#EXTINF:-1 tvg-name="第06集" tvg-logo="https://tupian.ffeiimg.com/upload/vod/20260704-1/d7a5a5db72f0b517b68257c988f38d50.jpg" group-title="动漫 · 提欧奥特曼",第06集
+https://cdn.yzzy31-play.com/20260808/23439_91695dc0/index.m3u8
+#EXTINF:-1 tvg-name="第03集" tvg-logo="https://img.lzipic.com/upload/vod/20260921-1/cfe63f9f6de868683f0b1132d54ca509.jpg" group-title="动漫 · 摆烂成仙动态漫",第03集
+https://v.lzcdn31.com/20260921/11764_09c70eea/index.m3u8
+#EXTINF:-1 tvg-name="第06集" tvg-logo="https://img.lzipic.com/upload/vod/20260921-1/cfe63f9f6de868683f0b1132d54ca509.jpg" group-title="动漫 · 摆烂成仙动态漫",第06集
+https://v.lzcdn31.com/20260921/11762_5bebd771/index.m3u8
+#EXTINF:-1 tvg-name="第01集" tvg-logo="https://fffgood.com/upload/vod/20260921-1/d3a9adbca88c75c6f85f51fd97d21304.jpg" group-title="动漫 · 摆烂成仙动态漫画",第01集
+https://vip.ffzy-play10.com/20260921/71699_4fbcff06/index.m3u8
+#EXTINF:-1 tvg-name="第02集" tvg-logo="https://fffgood.com/upload/vod/20260921-1/d3a9adbca88c75c6f85f51fd97d21304.jpg" group-title="动漫 · 摆烂成仙动态漫画",第02集
+https://vip.ffzy-play10.com/20260921/71700_59105201/index.m3u8
+#EXTINF:-1 tvg-name="第03集" tvg-logo="https://fffgood.com/upload/vod/20260921-1/d3a9adbca88c75c6f85f51fd97d21304.jpg" group-title="动漫 · 摆烂成仙动态漫画",第03集
+https://vip.ffzy-play10.com/20260921/71701_3b90dfc3/index.m3u8
+#EXTINF:-1 tvg-name="第04集" tvg-logo="https://fffgood.com/upload/vod/20260921-1/d3a9adbca88c75c6f85f51fd97d21304.jpg" group-title="动漫 · 摆烂成仙动态漫画",第04集
+https://vip.ffzy-play10.com/20260921/71702_3d7e93cb/index.m3u8
+#EXTINF:-1 tvg-name="第05集" tvg-logo="https://fffgood.com/upload/vod/20260921-1/d3a9adbca88c75c6f85f51fd97d21304.jpg" group-title="动漫 · 摆烂成仙动态漫画",第05集
+https://vip.ffzy-play10.com/20260921/71703_7804b284/index.m3u8
+#EXTINF:-1 tvg-name="第06集" tvg-logo="https://fffgood.com/upload/vod/20260921-1/d3a9adbca88c75c6f85f51fd97d21304.jpg" group-title="动漫 · 摆烂成仙动态漫画",第06集
+https://vip.ffzy-play10.com/20260921/71704_6648728d/index.m3u8
 #EXTINF:-1 tvg-name="第01集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-10-12/202610121791807255.jpg" group-title="动漫 · 数码宝贝：数码异客",第01集
 https://cdn.vvvip-plays33.cc/20261012/21108_a0b5ad02/index.m3u8
 #EXTINF:-1 tvg-name="第02集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-10-12/202610121791807255.jpg" group-title="动漫 · 数码宝贝：数码异客",第02集
@@ -688,6 +1050,18 @@ https://cdn.vvvip-plays33.cc/20261012/21109_7aa8cded/index.m3u8
 https://cdn.vvvip-plays33.cc/20261012/21110_5434d832/index.m3u8
 #EXTINF:-1 tvg-name="第04集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-10-12/202610121791807255.jpg" group-title="动漫 · 数码宝贝：数码异客",第04集
 https://cdn.vvvip-plays33.cc/20261012/21111_71ecf3a1/index.m3u8
+#EXTINF:-1 tvg-name="第01集" tvg-logo="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2675950683.jpg" group-title="动漫 · 斗破苍穹年番",第01集
+https://vip.lz-cdn14.com/20220731/6382_7b73d78a/index.m3u8
+#EXTINF:-1 tvg-name="第02集" tvg-logo="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2675950683.jpg" group-title="动漫 · 斗破苍穹年番",第02集
+https://vip.lz-cdn14.com/20220731/6381_580fbd00/index.m3u8
+#EXTINF:-1 tvg-name="第03集" tvg-logo="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2675950683.jpg" group-title="动漫 · 斗破苍穹年番",第03集
+https://vip.lz-cdn14.com/20220731/6380_63ad2709/index.m3u8
+#EXTINF:-1 tvg-name="第04集" tvg-logo="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2675950683.jpg" group-title="动漫 · 斗破苍穹年番",第04集
+https://vip.lz-cdn14.com/20220807/6859_d4952732/index.m3u8
+#EXTINF:-1 tvg-name="第05集" tvg-logo="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2675950683.jpg" group-title="动漫 · 斗破苍穹年番",第05集
+https://vip.lz-cdn14.com/20220814/8208_f9c711b4/index.m3u8
+#EXTINF:-1 tvg-name="第06集" tvg-logo="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2675950683.jpg" group-title="动漫 · 斗破苍穹年番",第06集
+https://vip.lz-cdn14.com/20220821/8694_1fecc054/index.m3u8
 #EXTINF:-1 tvg-name="第01集" tvg-logo="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2877604309.jpg" group-title="动漫 · 斗罗大陆2：绝世唐门",第01集
 https://vip.lz-cdn14.com/20230624/25452_c20b8a47/index.m3u8
 #EXTINF:-1 tvg-name="第02集" tvg-logo="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2877604309.jpg" group-title="动漫 · 斗罗大陆2：绝世唐门",第02集
@@ -736,6 +1110,18 @@ https://svip.yyzy-play.vip/20250129/22190_9b0ae164/index.m3u8
 https://svip.high24-playback.com/20250205/17786_296d9870/index.m3u8
 #EXTINF:-1 tvg-name="第06集" tvg-logo="https://pic3.yzzyimages.com/upload/vod/2025-01-16/202501161737000429.jpg" group-title="动漫 · 斗罗大陆5重生唐三动态漫画",第06集
 https://svip.high24-playback.com/20250212/18491_8bb20caf/index.m3u8
+#EXTINF:-1 tvg-name="第01集" tvg-logo="https://image.ffzyimg.com/upload/vod/20230415-1/d172c6f8b41401243b28c1c1ac22c305.jpg" group-title="动漫 · 新宝可梦",第01集
+https://vip.lz-cdn14.com/20230415/21857_c0c5bc6b/index.m3u8
+#EXTINF:-1 tvg-name="第02集" tvg-logo="https://image.ffzyimg.com/upload/vod/20230415-1/d172c6f8b41401243b28c1c1ac22c305.jpg" group-title="动漫 · 新宝可梦",第02集
+https://vip.lz-cdn14.com/20230416/21867_e4775b01/index.m3u8
+#EXTINF:-1 tvg-name="第03集" tvg-logo="https://image.ffzyimg.com/upload/vod/20230415-1/d172c6f8b41401243b28c1c1ac22c305.jpg" group-title="动漫 · 新宝可梦",第03集
+https://vip.lz-cdn14.com/20230423/22246_90da546c/index.m3u8
+#EXTINF:-1 tvg-name="第04集" tvg-logo="https://image.ffzyimg.com/upload/vod/20230415-1/d172c6f8b41401243b28c1c1ac22c305.jpg" group-title="动漫 · 新宝可梦",第04集
+https://vip.lz-cdn14.com/20230501/22674_444fcc91/index.m3u8
+#EXTINF:-1 tvg-name="第05集" tvg-logo="https://image.ffzyimg.com/upload/vod/20230415-1/d172c6f8b41401243b28c1c1ac22c305.jpg" group-title="动漫 · 新宝可梦",第05集
+https://vip.lz-cdn14.com/20230507/23067_0210a55f/index.m3u8
+#EXTINF:-1 tvg-name="第06集" tvg-logo="https://image.ffzyimg.com/upload/vod/20230415-1/d172c6f8b41401243b28c1c1ac22c305.jpg" group-title="动漫 · 新宝可梦",第06集
+https://vip.lz-cdn14.com/20230514/23467_2e55017e/index.m3u8
 #EXTINF:-1 tvg-name="第01集" tvg-logo="https://img.lzipic.com/upload/vod/20261008-1/37df2af96be15261cd718cd2defbe9c5.webp" group-title="动漫 · 新网球王子U-17世界杯决赛成员决定战",第01集
 https://v.lzcdn31.com/20261008/12450_ad253b28/index.m3u8
 #EXTINF:-1 tvg-name="第03集" tvg-logo="https://img.lzipic.com/upload/vod/20261008-1/37df2af96be15261cd718cd2defbe9c5.webp" group-title="动漫 · 新网球王子U-17世界杯决赛成员决定战",第03集
@@ -788,6 +1174,28 @@ https://v.lzcdn31.com/20260827/10597_03c0f7b0/index.m3u8
 https://v.lzcdn31.com/20260903/10929_27eabee7/index.m3u8
 #EXTINF:-1 tvg-name="第06集" tvg-logo="https://pic3.yzzyimages.com/upload/vod/2024-12-27/17352690671.jpg" group-title="动漫 · 时光代理人第三季",第06集
 https://v.lzcdn31.com/20260910/11201_e577425d/index.m3u8
+#EXTINF:-1 tvg-name="第01集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-01-10/202601101768022215.jpg" group-title="动漫 · 明朝败家子·动态漫",第01集
+https://vip.ffzy-play10.com/20260427/57953_ac9b8c08/index.m3u8
+#EXTINF:-1 tvg-name="第02集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-01-10/202601101768022215.jpg" group-title="动漫 · 明朝败家子·动态漫",第02集
+https://vip.ffzy-play10.com/20260427/57954_2b868f86/index.m3u8
+#EXTINF:-1 tvg-name="第03集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-01-10/202601101768022215.jpg" group-title="动漫 · 明朝败家子·动态漫",第03集
+https://vip.ffzy-play10.com/20260427/57955_e61def9f/index.m3u8
+#EXTINF:-1 tvg-name="第04集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-01-10/202601101768022215.jpg" group-title="动漫 · 明朝败家子·动态漫",第04集
+https://vip.ffzy-play10.com/20260427/57956_788117e4/index.m3u8
+#EXTINF:-1 tvg-name="第05集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-01-10/202601101768022215.jpg" group-title="动漫 · 明朝败家子·动态漫",第05集
+https://vip.ffzy-play10.com/20260427/57957_3fd7d338/index.m3u8
+#EXTINF:-1 tvg-name="第06集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-01-10/202601101768022215.jpg" group-title="动漫 · 明朝败家子·动态漫",第06集
+https://vip.ffzy-play10.com/20260427/57958_57c7a0e5/index.m3u8
+#EXTINF:-1 tvg-name="第01集" tvg-logo="https://img.lzipic.com/upload/vod/20260427-1/6b2642ca77f70a2a0a7a23ced091e51b.jpg" group-title="动漫 · 明朝败家子动态漫",第01集
+https://v.lzcdn27.com/20260427/9445_0f2985ca/index.m3u8
+#EXTINF:-1 tvg-name="第02集" tvg-logo="https://img.lzipic.com/upload/vod/20260427-1/6b2642ca77f70a2a0a7a23ced091e51b.jpg" group-title="动漫 · 明朝败家子动态漫",第02集
+https://v.lzcdn27.com/20260427/9450_b664437d/index.m3u8
+#EXTINF:-1 tvg-name="第03集" tvg-logo="https://img.lzipic.com/upload/vod/20260427-1/6b2642ca77f70a2a0a7a23ced091e51b.jpg" group-title="动漫 · 明朝败家子动态漫",第03集
+https://v.lzcdn27.com/20260427/9446_45d67a96/index.m3u8
+#EXTINF:-1 tvg-name="第04集" tvg-logo="https://img.lzipic.com/upload/vod/20260427-1/6b2642ca77f70a2a0a7a23ced091e51b.jpg" group-title="动漫 · 明朝败家子动态漫",第04集
+https://v.lzcdn27.com/20260427/9444_09f7a6d8/index.m3u8
+#EXTINF:-1 tvg-name="第05集" tvg-logo="https://img.lzipic.com/upload/vod/20260427-1/6b2642ca77f70a2a0a7a23ced091e51b.jpg" group-title="动漫 · 明朝败家子动态漫",第05集
+https://v.lzcdn27.com/20260427/9443_0b6d3d78/index.m3u8
 #EXTINF:-1 tvg-name="第01集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-07-20/202607201784556247.jpg" group-title="动漫 · 暗芝居第十七季",第01集
 https://v.lzcdn31.com/20260721/8748_3c2d59ed/index.m3u8
 #EXTINF:-1 tvg-name="第02集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-07-20/202607201784556247.jpg" group-title="动漫 · 暗芝居第十七季",第02集
@@ -840,6 +1248,30 @@ https://v.lzcdn31.com/20260902/10860_53726f90/index.m3u8
 https://cdn.vvvip-plays33.cc/20260819/17614_499b9a5e/index.m3u8
 #EXTINF:-1 tvg-name="第02集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2025-04-30/202504301745979148.jpg" group-title="动漫 · 末世钞能力者动态漫画",第02集
 https://cdn.vvvip-plays33.cc/20260819/17615_544ff8e8/index.m3u8
+#EXTINF:-1 tvg-name="第01集" tvg-logo="https://img.lzipic.com/upload/vod/20261017-1/b43cfc0c254092d162375559adffe137.png" group-title="动漫 · 李太白下凡记：长安篇动态漫",第01集
+https://v.lzcdn31.com/20261017/13110_deeb7000/index.m3u8
+#EXTINF:-1 tvg-name="第02集" tvg-logo="https://img.lzipic.com/upload/vod/20261017-1/b43cfc0c254092d162375559adffe137.png" group-title="动漫 · 李太白下凡记：长安篇动态漫",第02集
+https://v.lzcdn31.com/20261017/13111_a2fab21b/index.m3u8
+#EXTINF:-1 tvg-name="第03集" tvg-logo="https://img.lzipic.com/upload/vod/20261017-1/b43cfc0c254092d162375559adffe137.png" group-title="动漫 · 李太白下凡记：长安篇动态漫",第03集
+https://v.lzcdn31.com/20261017/13113_156b96b9/index.m3u8
+#EXTINF:-1 tvg-name="第04集" tvg-logo="https://img.lzipic.com/upload/vod/20261017-1/b43cfc0c254092d162375559adffe137.png" group-title="动漫 · 李太白下凡记：长安篇动态漫",第04集
+https://v.lzcdn31.com/20261017/13109_e718f83f/index.m3u8
+#EXTINF:-1 tvg-name="第05集" tvg-logo="https://img.lzipic.com/upload/vod/20261017-1/b43cfc0c254092d162375559adffe137.png" group-title="动漫 · 李太白下凡记：长安篇动态漫",第05集
+https://v.lzcdn31.com/20261017/13112_a0dcec43/index.m3u8
+#EXTINF:-1 tvg-name="第06集" tvg-logo="https://img.lzipic.com/upload/vod/20261017-1/b43cfc0c254092d162375559adffe137.png" group-title="动漫 · 李太白下凡记：长安篇动态漫",第06集
+https://v.lzcdn31.com/20261017/13114_b9bc79e7/index.m3u8
+#EXTINF:-1 tvg-name="第01集" tvg-logo="https://fffgood.com/upload/vod/20261017-1/00f958d90ce026f5e6a3481fb17e532e.jpg" group-title="动漫 · 李太白下凡记：长安篇动态漫画第一季",第01集
+https://vip.ffzy-play10.com/20261017/73819_f7baed71/index.m3u8
+#EXTINF:-1 tvg-name="第02集" tvg-logo="https://fffgood.com/upload/vod/20261017-1/00f958d90ce026f5e6a3481fb17e532e.jpg" group-title="动漫 · 李太白下凡记：长安篇动态漫画第一季",第02集
+https://vip.ffzy-play10.com/20261017/73820_0c49e4b0/index.m3u8
+#EXTINF:-1 tvg-name="第03集" tvg-logo="https://fffgood.com/upload/vod/20261017-1/00f958d90ce026f5e6a3481fb17e532e.jpg" group-title="动漫 · 李太白下凡记：长安篇动态漫画第一季",第03集
+https://vip.ffzy-play10.com/20261017/73821_90613d22/index.m3u8
+#EXTINF:-1 tvg-name="第04集" tvg-logo="https://fffgood.com/upload/vod/20261017-1/00f958d90ce026f5e6a3481fb17e532e.jpg" group-title="动漫 · 李太白下凡记：长安篇动态漫画第一季",第04集
+https://vip.ffzy-play10.com/20261017/73822_8dce6e50/index.m3u8
+#EXTINF:-1 tvg-name="第05集" tvg-logo="https://fffgood.com/upload/vod/20261017-1/00f958d90ce026f5e6a3481fb17e532e.jpg" group-title="动漫 · 李太白下凡记：长安篇动态漫画第一季",第05集
+https://vip.ffzy-play10.com/20261017/73823_778ad999/index.m3u8
+#EXTINF:-1 tvg-name="第06集" tvg-logo="https://fffgood.com/upload/vod/20261017-1/00f958d90ce026f5e6a3481fb17e532e.jpg" group-title="动漫 · 李太白下凡记：长安篇动态漫画第一季",第06集
+https://vip.ffzy-play10.com/20261017/73824_e0d0f4c3/index.m3u8
 #EXTINF:-1 tvg-name="第01集" tvg-logo="https://tupian.ffeiimg.com/upload/vod/20260729-1/2043bf467df2103f0e51beb24ca8aeaf.jpg" group-title="动漫 · 李熊猫",第01集
 https://v.lzcdn31.com/20260729/9045_435e16b6/index.m3u8
 #EXTINF:-1 tvg-name="第02集" tvg-logo="https://tupian.ffeiimg.com/upload/vod/20260729-1/2043bf467df2103f0e51beb24ca8aeaf.jpg" group-title="动漫 · 李熊猫",第02集
@@ -862,10 +1294,14 @@ https://v.lzcdn31.com/20261019/13226_da447560/index.m3u8
 https://cdn.yzzy30-play.com/20261005/59942_6939555e/index.m3u8
 #EXTINF:-1 tvg-name="第02集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-10-05/202610051791161674.jpg" group-title="动漫 · 来自远方2026",第02集
 https://cdn.yzzy31-play.com/20261012/27462_b6b505ff/index.m3u8
+#EXTINF:-1 tvg-name="第03集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-10-05/202610051791161674.jpg" group-title="动漫 · 来自远方2026",第03集
+https://cdn.yzzy31-play.com/20261019/27874_f190c7c5/index.m3u8
 #EXTINF:-1 tvg-name="第01集" tvg-logo="https://fffgood.com/upload/vod/20261005-1/63b65cfd78e7d1dab91383d3ac937db8.jpg" group-title="动漫 · 来自远方动画版",第01集
 https://vip.ffzy-plays.com/20261005/59082_e5cd7df3/index.m3u8
 #EXTINF:-1 tvg-name="第02集" tvg-logo="https://fffgood.com/upload/vod/20261005-1/63b65cfd78e7d1dab91383d3ac937db8.jpg" group-title="动漫 · 来自远方动画版",第02集
 https://vip.ffzy-plays.com/20261012/59378_14529fad/index.m3u8
+#EXTINF:-1 tvg-name="第03集" tvg-logo="https://fffgood.com/upload/vod/20261005-1/63b65cfd78e7d1dab91383d3ac937db8.jpg" group-title="动漫 · 来自远方动画版",第03集
+https://svip.feifei-play.com/20261019/46475_0c7105be/index.m3u8
 #EXTINF:-1 tvg-name="第01集" tvg-logo="https://fffgood.com/upload/vod/20261014-1/af448c3739b7473d9d21bf798b2721ad.jpg" group-title="动漫 · 极恶老大第三季",第01集
 https://v.lzcdn31.com/20261014/12690_dbaafef8/index.m3u8
 #EXTINF:-1 tvg-name="第02集" tvg-logo="https://fffgood.com/upload/vod/20261014-1/af448c3739b7473d9d21bf798b2721ad.jpg" group-title="动漫 · 极恶老大第三季",第02集
@@ -878,6 +1314,8 @@ https://v.lzcdn31.com/20261004/12354_be6628b3/index.m3u8
 https://v.lzcdn31.com/20261004/12355_7de220c8/index.m3u8
 #EXTINF:-1 tvg-name="第03集" tvg-logo="https://img.lzipic.com/upload/vod/20261004-1/9ad5e4836072b04289bb5ad887b0d640.webp" group-title="动漫 · 极道寿司次郎！",第03集
 https://v.lzcdn31.com/20261011/12606_517dcd98/index.m3u8
+#EXTINF:-1 tvg-name="第04集" tvg-logo="https://img.lzipic.com/upload/vod/20261004-1/9ad5e4836072b04289bb5ad887b0d640.webp" group-title="动漫 · 极道寿司次郎！",第04集
+https://v.lzcdn31.com/20261018/13216_a2e66fe6/index.m3u8
 #EXTINF:-1 tvg-name="第01集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-10-04/202610041791068803.jpg" group-title="动漫 · 某暗部的少女共栖",第01集
 https://v.lzcdn31.com/20261009/12533_53eff2ac/index.m3u8
 #EXTINF:-1 tvg-name="第02集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-10-04/202610041791068803.jpg" group-title="动漫 · 某暗部的少女共栖",第02集
@@ -897,7 +1335,7 @@ https://vip.lz-cdn14.com/20220615/1598_1e945298/index.m3u8
 #EXTINF:-1 tvg-name="第04集" tvg-logo="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2602527620.jpg" group-title="动漫 · 武神主宰",第04集
 https://vip.lz-cdn14.com/20220615/1601_5602c49d/index.m3u8
 #EXTINF:-1 tvg-name="第05集" tvg-logo="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2602527620.jpg" group-title="动漫 · 武神主宰",第05集
-https://yzzy.play-cdn2.com/20220408/10078_71de7189/index.m3u8
+https://vip.lz-cdn14.com/20220615/1602_de949e05/index.m3u8
 #EXTINF:-1 tvg-name="第06集" tvg-logo="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2602527620.jpg" group-title="动漫 · 武神主宰",第06集
 https://vip.lz-cdn14.com/20220615/1600_9b0a00b9/index.m3u8
 #EXTINF:-1 tvg-name="第07集" tvg-logo="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2602527620.jpg" group-title="动漫 · 武神主宰",第07集
@@ -906,10 +1344,50 @@ https://yzzy.play-cdn2.com/20220408/10077_88c57204/index.m3u8
 https://yzzy.play-cdn2.com/20220408/10076_e2c853da/index.m3u8
 #EXTINF:-1 tvg-name="第09集" tvg-logo="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2602527620.jpg" group-title="动漫 · 武神主宰",第09集
 https://yzzy.play-cdn2.com/20220408/10075_3131fe0f/index.m3u8
+#EXTINF:-1 tvg-name="第01集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2025-04-13/202504131744508896.jpg" group-title="动漫 · 死灵法师！我即是天灾",第01集
+https://p.bvvvvvvv7f.com/video/silingfashiwojishitianzai/第01集/index.m3u8
+#EXTINF:-1 tvg-name="第02集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2025-04-13/202504131744508896.jpg" group-title="动漫 · 死灵法师！我即是天灾",第02集
+https://p.bvvvvvvv7f.com/video/silingfashiwojishitianzai/第02集/index.m3u8
+#EXTINF:-1 tvg-name="第03集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2025-04-13/202504131744508896.jpg" group-title="动漫 · 死灵法师！我即是天灾",第03集
+https://p.bvvvvvvv7f.com/video/silingfashiwojishitianzai/第03集/index.m3u8
+#EXTINF:-1 tvg-name="第04集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2025-04-13/202504131744508896.jpg" group-title="动漫 · 死灵法师！我即是天灾",第04集
+https://p.bvvvvvvv7f.com/video/silingfashiwojishitianzai/第04集/index.m3u8
 #EXTINF:-1 tvg-name="第05集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2025-04-13/202504131744508896.jpg" group-title="动漫 · 死灵法师！我即是天灾",第05集
 https://p.bvvvvvvv7f.com/video/silingfashiwojishitianzai/第05集/index.m3u8
 #EXTINF:-1 tvg-name="第06集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2025-04-13/202504131744508896.jpg" group-title="动漫 · 死灵法师！我即是天灾",第06集
 https://p.bvvvvvvv7f.com/video/silingfashiwojishitianzai/第06集/index.m3u8
+#EXTINF:-1 tvg-name="第01集" tvg-logo="https://img.lzipic.com/upload/vod/20251215-1/4edbf274b8841f3399306ac659747a06.jpg" group-title="动漫 · 死灵法师！我即是天灾动态漫",第01集
+https://v.lzv22.com/20251215/28439_d51e536d/index.m3u8
+#EXTINF:-1 tvg-name="第02集" tvg-logo="https://img.lzipic.com/upload/vod/20251215-1/4edbf274b8841f3399306ac659747a06.jpg" group-title="动漫 · 死灵法师！我即是天灾动态漫",第02集
+https://v.lzv22.com/20251215/28437_2d267bf5/index.m3u8
+#EXTINF:-1 tvg-name="第03集" tvg-logo="https://img.lzipic.com/upload/vod/20251215-1/4edbf274b8841f3399306ac659747a06.jpg" group-title="动漫 · 死灵法师！我即是天灾动态漫",第03集
+https://v.lzv22.com/20251215/28438_bd44881d/index.m3u8
+#EXTINF:-1 tvg-name="第04集" tvg-logo="https://img.lzipic.com/upload/vod/20251215-1/4edbf274b8841f3399306ac659747a06.jpg" group-title="动漫 · 死灵法师！我即是天灾动态漫",第04集
+https://v.lzv22.com/20251215/28441_af105c26/index.m3u8
+#EXTINF:-1 tvg-name="第05集" tvg-logo="https://img.lzipic.com/upload/vod/20251215-1/4edbf274b8841f3399306ac659747a06.jpg" group-title="动漫 · 死灵法师！我即是天灾动态漫",第05集
+https://v.lzv22.com/20251215/28440_dc3025b3/index.m3u8
+#EXTINF:-1 tvg-name="第06集" tvg-logo="https://img.lzipic.com/upload/vod/20251215-1/4edbf274b8841f3399306ac659747a06.jpg" group-title="动漫 · 死灵法师！我即是天灾动态漫",第06集
+https://v.lzv22.com/20251215/28442_2a1145da/index.m3u8
+#EXTINF:-1 tvg-name="第01集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2025-04-13/202504131744508896.jpg" group-title="动漫 · 死灵法师！我即是天灾动态漫画",第01集
+https://svip.high24-playback.com/20250413/24644_c9344998/index.m3u8
+#EXTINF:-1 tvg-name="第02集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2025-04-13/202504131744508896.jpg" group-title="动漫 · 死灵法师！我即是天灾动态漫画",第02集
+https://svip.high24-playback.com/20250413/24645_b941a08a/index.m3u8
+#EXTINF:-1 tvg-name="第03集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2025-04-13/202504131744508896.jpg" group-title="动漫 · 死灵法师！我即是天灾动态漫画",第03集
+https://svip.high24-playback.com/20250413/24646_87067b6a/index.m3u8
+#EXTINF:-1 tvg-name="第04集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2025-04-13/202504131744508896.jpg" group-title="动漫 · 死灵法师！我即是天灾动态漫画",第04集
+https://svip.high24-playback.com/20250413/24647_a5225667/index.m3u8
+#EXTINF:-1 tvg-name="第05集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2025-04-13/202504131744508896.jpg" group-title="动漫 · 死灵法师！我即是天灾动态漫画",第05集
+https://svip.high24-playback.com/20250413/24648_8684ff2b/index.m3u8
+#EXTINF:-1 tvg-name="第06集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2025-04-13/202504131744508896.jpg" group-title="动漫 · 死灵法师！我即是天灾动态漫画",第06集
+https://svip.high24-playback.com/20250413/24649_a60c71bd/index.m3u8
+#EXTINF:-1 tvg-name="第01集" tvg-logo="https://img.lzipic.com/upload/vod/20260724-1/2be3c37bba8ae6f43e727f0d65d551ce.webp" group-title="动漫 · 死灵法师！我即是天灾动漫",第01集
+https://v.lzcdn31.com/20260724/8859_e505ed65/index.m3u8
+#EXTINF:-1 tvg-name="第02集" tvg-logo="https://img.lzipic.com/upload/vod/20260724-1/2be3c37bba8ae6f43e727f0d65d551ce.webp" group-title="动漫 · 死灵法师！我即是天灾动漫",第02集
+https://v.lzcdn31.com/20260724/8858_e9dc304d/index.m3u8
+#EXTINF:-1 tvg-name="第03集" tvg-logo="https://img.lzipic.com/upload/vod/20260724-1/2be3c37bba8ae6f43e727f0d65d551ce.webp" group-title="动漫 · 死灵法师！我即是天灾动漫",第03集
+https://v.lzcdn31.com/20260724/8860_20226d81/index.m3u8
+#EXTINF:-1 tvg-name="第05集" tvg-logo="https://img.lzipic.com/upload/vod/20260724-1/2be3c37bba8ae6f43e727f0d65d551ce.webp" group-title="动漫 · 死灵法师！我即是天灾动漫",第05集
+https://v.lzcdn31.com/20260731/9139_27079f74/index.m3u8
 #EXTINF:-1 tvg-name="第01集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-08-26/202608261787714404.jpg" group-title="动漫 · 永夜之王",第01集
 https://vip.ffzy-plays.com/20260902/57737_8c9e1e19/index.m3u8
 #EXTINF:-1 tvg-name="第02集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-08-26/202608261787714404.jpg" group-title="动漫 · 永夜之王",第02集
@@ -1018,6 +1496,12 @@ https://v.lzv22.com/20241110/7816_5f5d907e/index.m3u8
 https://v.lzv22.com/20241117/8214_28154d83/index.m3u8
 #EXTINF:-1 tvg-name="第06集" tvg-logo="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2916595576.jpg" group-title="动漫 · 牧神记",第06集
 https://v.lzv22.com/20241124/8656_002ce698/index.m3u8
+#EXTINF:-1 tvg-name="第01集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2025-04-24/202504241745489728.jpg" group-title="动漫 · 牧龙师动态漫画",第01集
+https://cdn.yzzy27-play.com/20250425/757_470e7a4f/index.m3u8
+#EXTINF:-1 tvg-name="第02集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2025-04-24/202504241745489728.jpg" group-title="动漫 · 牧龙师动态漫画",第02集
+https://cdn.yzzy27-play.com/20250425/758_bf62768c/index.m3u8
+#EXTINF:-1 tvg-name="第03集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2025-04-24/202504241745489728.jpg" group-title="动漫 · 牧龙师动态漫画",第03集
+https://cdn.yzzy27-play.com/20250425/759_fa14d4fe/index.m3u8
 #EXTINF:-1 tvg-name="第01集" tvg-logo="https://fffgood.com/upload/vod/20261008-1/c3688c06eee7f1ea494ef7c29248c4af.jpg" group-title="动漫 · 狂王第二季",第01集
 https://v.lzcdn31.com/20261008/12471_9f3b2686/index.m3u8
 #EXTINF:-1 tvg-name="第02集" tvg-logo="https://fffgood.com/upload/vod/20261008-1/c3688c06eee7f1ea494ef7c29248c4af.jpg" group-title="动漫 · 狂王第二季",第02集
@@ -1052,6 +1536,16 @@ https://vip.ffzy-plays.com/20260722/56106_d5e5b2fc/index.m3u8
 https://vip.ffzy-plays.com/20260722/56107_60b6c4eb/index.m3u8
 #EXTINF:-1 tvg-name="第06集" tvg-logo="https://tupian.ffeiimg.com/upload/vod/20260722-1/628b1d359abf6a495a5033d4557a2f2e.jpg" group-title="动漫 · 玄幻：我！天命大反派",第06集
 https://vip.ffzy-plays.com/20260729/56371_ecf15b32/index.m3u8
+#EXTINF:-1 tvg-name="第01集" tvg-logo="https://img.feifeiimg.vip/upload/vod/20260829-1/21f6a2219a7f4fba2c02817be91407eb.jpg" group-title="动漫 · 王蓝莓的欢乐日常",第01集
+https://vip.ffzy-play10.com/20260829/71387_8382b5bc/index.m3u8
+#EXTINF:-1 tvg-name="第02集" tvg-logo="https://img.feifeiimg.vip/upload/vod/20260829-1/21f6a2219a7f4fba2c02817be91407eb.jpg" group-title="动漫 · 王蓝莓的欢乐日常",第02集
+https://vip.ffzy-play10.com/20260829/71388_89471e26/index.m3u8
+#EXTINF:-1 tvg-name="第04集" tvg-logo="https://img.feifeiimg.vip/upload/vod/20260829-1/21f6a2219a7f4fba2c02817be91407eb.jpg" group-title="动漫 · 王蓝莓的欢乐日常",第04集
+https://vip.ffzy-play10.com/20260829/71390_fe5f2e9a/index.m3u8
+#EXTINF:-1 tvg-name="第05集" tvg-logo="https://img.feifeiimg.vip/upload/vod/20260829-1/21f6a2219a7f4fba2c02817be91407eb.jpg" group-title="动漫 · 王蓝莓的欢乐日常",第05集
+https://vip.ffzy-play10.com/20260829/71391_a1e03233/index.m3u8
+#EXTINF:-1 tvg-name="第06集" tvg-logo="https://img.feifeiimg.vip/upload/vod/20260829-1/21f6a2219a7f4fba2c02817be91407eb.jpg" group-title="动漫 · 王蓝莓的欢乐日常",第06集
+https://vip.ffzy-play10.com/20260829/71392_debccad1/index.m3u8
 #EXTINF:-1 tvg-name="第01集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-10-06/202610061791248885.jpg" group-title="动漫 · 瓢虫少女第五季国语",第01集
 https://cdn.yzzy32-play.com/20261006/52306_d2893d9f/index.m3u8
 #EXTINF:-1 tvg-name="第02集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-10-06/202610061791248885.jpg" group-title="动漫 · 瓢虫少女第五季国语",第02集
@@ -1112,6 +1606,10 @@ https://vip.ffzy-plays.com/20261001/58925_461d0956/index.m3u8
 https://vip.ffzy-plays.com/20261002/58964_ee17dedc/index.m3u8
 #EXTINF:-1 tvg-name="第06集" tvg-logo="https://fffgood.com/upload/vod/20261001-1/325dc63e6b013f3f505fb8af6b337819.jpg" group-title="动漫 · 神兽学院",第06集
 https://vip.ffzy-plays.com/20261003/59004_09095ce7/index.m3u8
+#EXTINF:-1 tvg-name="第01集" tvg-logo="https://tupian.ffeiimg.com/upload/vod/20250825-1/fd71847b4430950697ca683f833ed8aa.jpg" group-title="动漫 · 神王序列",第01集
+https://v.lzcdn31.com/20251202/123_5a687249/index.m3u8
+#EXTINF:-1 tvg-name="第02集" tvg-logo="https://tupian.ffeiimg.com/upload/vod/20250825-1/fd71847b4430950697ca683f833ed8aa.jpg" group-title="动漫 · 神王序列",第02集
+https://v.lzcdn31.com/20251202/122_0cd4ac93/index.m3u8
 #EXTINF:-1 tvg-name="第03集" tvg-logo="https://tupian.ffeiimg.com/upload/vod/20250825-1/fd71847b4430950697ca683f833ed8aa.jpg" group-title="动漫 · 神王序列",第03集
 https://v.lzcdn31.com/20251202/121_dfc65351/index.m3u8
 #EXTINF:-1 tvg-name="第04集" tvg-logo="https://tupian.ffeiimg.com/upload/vod/20250825-1/fd71847b4430950697ca683f833ed8aa.jpg" group-title="动漫 · 神王序列",第04集
@@ -1120,8 +1618,14 @@ https://v.lzcdn31.com/20251202/124_81ce4e42/index.m3u8
 https://v.lzcdn31.com/20251202/126_4a88716d/index.m3u8
 #EXTINF:-1 tvg-name="第06集" tvg-logo="https://tupian.ffeiimg.com/upload/vod/20250825-1/fd71847b4430950697ca683f833ed8aa.jpg" group-title="动漫 · 神王序列",第06集
 https://v.lzcdn31.com/20251202/125_54a47f26/index.m3u8
+#EXTINF:-1 tvg-name="第01集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2025-12-24/202512241766558299.jpg" group-title="动漫 · 神级奸商：全服求我别薅了",第01集
+https://cdn.yzzy32-play.com/20251224/3907_3341f6f0/index.m3u8
 #EXTINF:-1 tvg-name="第02集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2025-12-24/202512241766558299.jpg" group-title="动漫 · 神级奸商：全服求我别薅了",第02集
 https://cdn.yzzy32-play.com/20251224/3908_576d0262/index.m3u8
+#EXTINF:-1 tvg-name="第03集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2025-12-24/202512241766558299.jpg" group-title="动漫 · 神级奸商：全服求我别薅了",第03集
+https://cdn.yzzy32-play.com/20251224/3909_4175a4b4/index.m3u8
+#EXTINF:-1 tvg-name="第04集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2025-12-24/202512241766558299.jpg" group-title="动漫 · 神级奸商：全服求我别薅了",第04集
+https://cdn.yzzy32-play.com/20251224/3910_1be883ee/index.m3u8
 #EXTINF:-1 tvg-name="第05集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2025-12-24/202512241766558299.jpg" group-title="动漫 · 神级奸商：全服求我别薅了",第05集
 https://cdn.yzzy32-play.com/20251224/3911_1bf50aaf/index.m3u8
 #EXTINF:-1 tvg-name="第06集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2025-12-24/202512241766558299.jpg" group-title="动漫 · 神级奸商：全服求我别薅了",第06集
@@ -1162,6 +1666,22 @@ https://v.lzcdn31.com/20260630/7804_1e25aff2/index.m3u8
 https://v.lzcdn31.com/20260707/8089_a69425a5/index.m3u8
 #EXTINF:-1 tvg-name="第06集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-06-10/202606101781075468.jpg" group-title="动漫 · 绝世战魂第二季",第06集
 https://v.lzcdn31.com/20260714/8425_a9e492a8/index.m3u8
+#EXTINF:-1 tvg-name="第01集" tvg-logo="https://img.lzipic.com/upload/vod/20260807-1/8d303af3c95cfcfd28cb15042734cbee.webp" group-title="动漫 · 缔灵爱水心缠",第01集
+https://v.lzcdn31.com/20260807/9466_75874b83/index.m3u8
+#EXTINF:-1 tvg-name="第02集" tvg-logo="https://img.lzipic.com/upload/vod/20260807-1/8d303af3c95cfcfd28cb15042734cbee.webp" group-title="动漫 · 缔灵爱水心缠",第02集
+https://v.lzcdn31.com/20260807/9467_3e98142f/index.m3u8
+#EXTINF:-1 tvg-name="第03集" tvg-logo="https://img.lzipic.com/upload/vod/20260807-1/8d303af3c95cfcfd28cb15042734cbee.webp" group-title="动漫 · 缔灵爱水心缠",第03集
+https://v.lzcdn31.com/20260814/9786_90bb5c3c/index.m3u8
+#EXTINF:-1 tvg-name="第04集" tvg-logo="https://img.lzipic.com/upload/vod/20260807-1/8d303af3c95cfcfd28cb15042734cbee.webp" group-title="动漫 · 缔灵爱水心缠",第04集
+https://v.lzcdn31.com/20260821/10275_0027ccaf/index.m3u8
+#EXTINF:-1 tvg-name="第05集" tvg-logo="https://img.lzipic.com/upload/vod/20260807-1/8d303af3c95cfcfd28cb15042734cbee.webp" group-title="动漫 · 缔灵爱水心缠",第05集
+https://v.lzcdn31.com/20260828/10630_4b68bd8f/index.m3u8
+#EXTINF:-1 tvg-name="第01集" tvg-logo="https://img.lzipic.com/upload/vod/20261003-1/462d292ebf15c051b77bbf1e44e9f12e.webp" group-title="动漫 · 罗梅莉亚战记",第01集
+https://v.lzcdn31.com/20261003/12278_776dc2b2/index.m3u8
+#EXTINF:-1 tvg-name="第02集" tvg-logo="https://img.lzipic.com/upload/vod/20261003-1/462d292ebf15c051b77bbf1e44e9f12e.webp" group-title="动漫 · 罗梅莉亚战记",第02集
+https://v.lzcdn31.com/20261010/12574_55046650/index.m3u8
+#EXTINF:-1 tvg-name="第03集" tvg-logo="https://img.lzipic.com/upload/vod/20261003-1/462d292ebf15c051b77bbf1e44e9f12e.webp" group-title="动漫 · 罗梅莉亚战记",第03集
+https://v.lzcdn31.com/20261017/13107_53e8d64c/index.m3u8
 #EXTINF:-1 tvg-name="第01集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-10-02/202610021790953501.jpg" group-title="动漫 · 苍蓝传承",第01集
 https://cdn.yzzy30-play.com/20261002/59880_aebf1e76/index.m3u8
 #EXTINF:-1 tvg-name="第02集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-10-02/202610021790953501.jpg" group-title="动漫 · 苍蓝传承",第02集
@@ -1180,6 +1700,10 @@ https://v.lzcdn31.com/20260617/7343_14ce8a12/index.m3u8
 https://v.lzcdn31.com/20260617/7342_c1c5bcb5/index.m3u8
 #EXTINF:-1 tvg-name="第03集" tvg-logo="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2933314517.jpg" group-title="动漫 · 苏东坡与杭州的故事",第03集
 https://v.lzcdn31.com/20260619/7480_a8fd2241/index.m3u8
+#EXTINF:-1 tvg-name="第05集" tvg-logo="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2933314517.jpg" group-title="动漫 · 苏东坡与杭州的故事",第05集
+https://v.lzcdn31.com/20260626/7669_32257511/index.m3u8
+#EXTINF:-1 tvg-name="第06集" tvg-logo="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2933314517.jpg" group-title="动漫 · 苏东坡与杭州的故事",第06集
+https://v.lzcdn31.com/20260701/7823_a06c4797/index.m3u8
 #EXTINF:-1 tvg-name="第1集" tvg-logo="https://img.lzipic.com/upload/vod/20261002-1/468a32a0e31dbd31f4e92e42a0c9a4a1.webp" group-title="动漫 · 药屋少女的呢喃第三季",第1集
 https://v.lzcdn31.com/20261002/12233_78f4a82f/index.m3u8
 #EXTINF:-1 tvg-name="第01集" tvg-logo="https://img.lzipic.com/upload/vod/20261002-1/468a32a0e31dbd31f4e92e42a0c9a4a1.webp" group-title="动漫 · 药屋少女的呢喃第三季",第01集
@@ -1226,6 +1750,8 @@ https://v.lzcdn31.com/20260724/8841_d714d7df/index.m3u8
 https://v.lzcdn31.com/20260731/9134_49d49284/index.m3u8
 #EXTINF:-1 tvg-name="第06集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-07-03/202607031783008709.jpg" group-title="动漫 · 被追放的转生重骑士用游戏知识开无双",第06集
 https://v.lzcdn31.com/20260807/9456_14b6a417/index.m3u8
+#EXTINF:-1 tvg-name="第01集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-09-14/202609141789354956.jpg" group-title="动漫 · 装备我最强",第01集
+https://cdn.yzzy30-play.com/20260914/59037_2eaa7a85/index.m3u8
 #EXTINF:-1 tvg-name="第02集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-09-14/202609141789354956.jpg" group-title="动漫 · 装备我最强",第02集
 https://cdn.yzzy30-play.com/20260914/59038_f1b6f153/index.m3u8
 #EXTINF:-1 tvg-name="第03集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-09-14/202609141789354956.jpg" group-title="动漫 · 装备我最强",第03集
@@ -1268,6 +1794,18 @@ https://cdn.yzzy28-play.com/20251129/25312_8451dd97/index.m3u8
 https://cdn.yzzy28-play.com/20251129/25313_4ef11693/index.m3u8
 #EXTINF:-1 tvg-name="第06集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2025-11-29/202511291764420586.jpg" group-title="动漫 · 诸界末日在线动态漫画",第06集
 https://cdn.yzzy28-play.com/20251129/25314_1b12d60e/index.m3u8
+#EXTINF:-1 tvg-name="第01集" tvg-logo="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2934809957.jpg" group-title="动漫 · 财神窦占龙",第01集
+https://v.lzcdn31.com/20260816/9899_71539efc/index.m3u8
+#EXTINF:-1 tvg-name="第02集" tvg-logo="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2934809957.jpg" group-title="动漫 · 财神窦占龙",第02集
+https://v.lzcdn31.com/20260816/9901_0ca0da93/index.m3u8
+#EXTINF:-1 tvg-name="第03集" tvg-logo="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2934809957.jpg" group-title="动漫 · 财神窦占龙",第03集
+https://v.lzcdn31.com/20260816/9900_3a0d629c/index.m3u8
+#EXTINF:-1 tvg-name="第04集" tvg-logo="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2934809957.jpg" group-title="动漫 · 财神窦占龙",第04集
+https://v.lzcdn31.com/20260823/10396_ce51495c/index.m3u8
+#EXTINF:-1 tvg-name="第05集" tvg-logo="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2934809957.jpg" group-title="动漫 · 财神窦占龙",第05集
+https://v.lzcdn31.com/20260830/10744_efda6afb/index.m3u8
+#EXTINF:-1 tvg-name="第06集" tvg-logo="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2934809957.jpg" group-title="动漫 · 财神窦占龙",第06集
+https://v.lzcdn31.com/20260906/11043_e2641230/index.m3u8
 #EXTINF:-1 tvg-name="第01集" tvg-logo="https://img.lzipic.com/upload/vod/20261003-1/685d46f0b033434a6e3588df4fc051eb.webp" group-title="动漫 · 转生了的大圣女，拼死隐瞒自己身为圣女",第01集
 https://v.lzcdn31.com/20261003/12279_3254e969/index.m3u8
 #EXTINF:-1 tvg-name="第02集" tvg-logo="https://img.lzipic.com/upload/vod/20261003-1/685d46f0b033434a6e3588df4fc051eb.webp" group-title="动漫 · 转生了的大圣女，拼死隐瞒自己身为圣女",第02集
@@ -1294,6 +1832,16 @@ https://v.lzcdn31.com/20261004/12360_d882d689/index.m3u8
 https://v.lzcdn31.com/20261011/12616_40346de4/index.m3u8
 #EXTINF:-1 tvg-name="第04集" tvg-logo="https://fffgood.com/upload/vod/20260927-1/4c7451b1baf9fc9a4aa54352912d83d4.jpg" group-title="动漫 · 转生贵族凭鉴定技能扭转人生第三季",第04集
 https://v.lzcdn31.com/20261018/13222_436194a7/index.m3u8
+#EXTINF:-1 tvg-name="第01集" tvg-logo="https://img.lzipic.com/upload/vod/20260404-1/b28fca5573691a4bb44d804d8d350c0b.webp" group-title="动漫 · 轻松熊",第01集
+https://v.lzcdn27.com/20260404/8140_1b2e3c74/index.m3u8
+#EXTINF:-1 tvg-name="第03集" tvg-logo="https://img.lzipic.com/upload/vod/20260404-1/b28fca5573691a4bb44d804d8d350c0b.webp" group-title="动漫 · 轻松熊",第03集
+https://v.lzcdn27.com/20260418/8887_37bf2cc1/index.m3u8
+#EXTINF:-1 tvg-name="第04集" tvg-logo="https://img.lzipic.com/upload/vod/20260404-1/b28fca5573691a4bb44d804d8d350c0b.webp" group-title="动漫 · 轻松熊",第04集
+https://v.lzcdn27.com/20260425/9265_79509a4f/index.m3u8
+#EXTINF:-1 tvg-name="第05集" tvg-logo="https://img.lzipic.com/upload/vod/20260404-1/b28fca5573691a4bb44d804d8d350c0b.webp" group-title="动漫 · 轻松熊",第05集
+https://v.lzcdn27.com/20260502/9646_e534b6ad/index.m3u8
+#EXTINF:-1 tvg-name="第06集" tvg-logo="https://img.lzipic.com/upload/vod/20260404-1/b28fca5573691a4bb44d804d8d350c0b.webp" group-title="动漫 · 轻松熊",第06集
+https://v.lzcdn27.com/20260509/10047_2fb9156d/index.m3u8
 #EXTINF:-1 tvg-name="第01集" tvg-logo="https://tupian.ffeiimg.com/upload/vod/20250430-1/c82fbe9f0dabecd7d9c3d2d96ebc0690.jpg" group-title="动漫 · 迪迦奥特曼国语版",第01集
 https://vip.ffzy-play6.com/20250915/41615_f520f65c/index.m3u8
 #EXTINF:-1 tvg-name="第02集" tvg-logo="https://tupian.ffeiimg.com/upload/vod/20250430-1/c82fbe9f0dabecd7d9c3d2d96ebc0690.jpg" group-title="动漫 · 迪迦奥特曼国语版",第02集
@@ -1330,6 +1878,34 @@ https://v.cdnlz14.com/20231007/30143_1aedfc81/index.m3u8
 https://vip.ffzy-plays.com/20230503/11270_98a7b781/index.m3u8
 #EXTINF:-1 tvg-name="第02集" tvg-logo="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2877602915.jpg" group-title="动漫 · 遮天",第02集
 https://vip.ffzy-plays.com/20230503/11269_ff169d78/index.m3u8
+#EXTINF:-1 tvg-name="第01集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-10-15/202610151792078139.jpg" group-title="动漫 · 都市古仙医第二季",第01集
+https://v.lzcdn31.com/20261015/12996_ae5e7ff6/index.m3u8
+#EXTINF:-1 tvg-name="第02集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-10-15/202610151792078139.jpg" group-title="动漫 · 都市古仙医第二季",第02集
+https://v.lzcdn31.com/20261018/13191_e7294263/index.m3u8
+#EXTINF:-1 tvg-name="第01集" tvg-logo="https://img.lzipic.com/upload/vod/20260926-1/69023297db3dfcdaffa9301bf2352175.webp" group-title="动漫 · 野生的大魔王出现了！第二季",第01集
+https://v.lzcdn31.com/20260926/12015_e8452c58/index.m3u8
+#EXTINF:-1 tvg-name="第02集" tvg-logo="https://img.lzipic.com/upload/vod/20260926-1/69023297db3dfcdaffa9301bf2352175.webp" group-title="动漫 · 野生的大魔王出现了！第二季",第02集
+https://v.lzcdn31.com/20261003/12281_99a5b2e2/index.m3u8
+#EXTINF:-1 tvg-name="第03集" tvg-logo="https://img.lzipic.com/upload/vod/20260926-1/69023297db3dfcdaffa9301bf2352175.webp" group-title="动漫 · 野生的大魔王出现了！第二季",第03集
+https://v.lzcdn31.com/20261010/12573_53efb532/index.m3u8
+#EXTINF:-1 tvg-name="第04集" tvg-logo="https://img.lzipic.com/upload/vod/20260926-1/69023297db3dfcdaffa9301bf2352175.webp" group-title="动漫 · 野生的大魔王出现了！第二季",第04集
+https://v.lzcdn31.com/20261017/13108_7eee4ed1/index.m3u8
+#EXTINF:-1 tvg-name="第01集" tvg-logo="https://img.lzipic.com/upload/vod/20260405-1/2936a6d10f7db909cda8babfd61b540e.webp" group-title="动漫 · 钻石王牌第四季",第01集
+https://v.lzcdn27.com/20260405/8222_957a0e4b/index.m3u8
+#EXTINF:-1 tvg-name="第02集" tvg-logo="https://img.lzipic.com/upload/vod/20260405-1/2936a6d10f7db909cda8babfd61b540e.webp" group-title="动漫 · 钻石王牌第四季",第02集
+https://v.lzcdn27.com/20260412/8600_c82bef8b/index.m3u8
+#EXTINF:-1 tvg-name="第03集" tvg-logo="https://img.lzipic.com/upload/vod/20260405-1/2936a6d10f7db909cda8babfd61b540e.webp" group-title="动漫 · 钻石王牌第四季",第03集
+https://v.lzcdn27.com/20260419/9029_81352a16/index.m3u8
+#EXTINF:-1 tvg-name="第04集" tvg-logo="https://img.lzipic.com/upload/vod/20260405-1/2936a6d10f7db909cda8babfd61b540e.webp" group-title="动漫 · 钻石王牌第四季",第04集
+https://v.lzcdn27.com/20260426/9350_61adfaa0/index.m3u8
+#EXTINF:-1 tvg-name="第05集" tvg-logo="https://img.lzipic.com/upload/vod/20260405-1/2936a6d10f7db909cda8babfd61b540e.webp" group-title="动漫 · 钻石王牌第四季",第05集
+https://v.lzcdn27.com/20260503/9742_8b1455cd/index.m3u8
+#EXTINF:-1 tvg-name="第06集" tvg-logo="https://img.lzipic.com/upload/vod/20260405-1/2936a6d10f7db909cda8babfd61b540e.webp" group-title="动漫 · 钻石王牌第四季",第06集
+https://v.lzcdn27.com/20260510/10120_cda99517/index.m3u8
+#EXTINF:-1 tvg-name="第01集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-10-11/202610111791711060.jpg" group-title="动漫 · 钻石王牌第四季Part2",第01集
+https://player.yzzyvip-35.com/20261011/18605_c68df109/index.m3u8
+#EXTINF:-1 tvg-name="第02集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-10-11/202610111791711060.jpg" group-title="动漫 · 钻石王牌第四季Part2",第02集
+https://cdn.yzzy30-play.com/20261018/60573_6708d004/index.m3u8
 #EXTINF:-1 tvg-name="第01集" tvg-logo="https://img.lzipic.com/upload/vod/20261009-1/6c08678087969dd59024d9ddcd03da13.webp" group-title="动漫 · 铁旅邂逅铁道少女",第01集
 https://v.lzcdn31.com/20261009/12480_33b3e003/index.m3u8
 #EXTINF:-1 tvg-name="第02集" tvg-logo="https://img.lzipic.com/upload/vod/20261009-1/6c08678087969dd59024d9ddcd03da13.webp" group-title="动漫 · 铁旅邂逅铁道少女",第02集
@@ -1370,6 +1946,8 @@ https://v.lzcdn31.com/20260821/10293_6f65ef52/index.m3u8
 https://v.lzcdn31.com/20260821/10291_d9cf2e18/index.m3u8
 #EXTINF:-1 tvg-name="第06集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-08-21/202608211787282501.jpg" group-title="动漫 · 雪王来了！",第06集
 https://v.lzcdn31.com/20260821/10294_18d1c9dd/index.m3u8
+#EXTINF:-1 tvg-name="第01集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-10-04/202610041791107595.jpg" group-title="动漫 · 青之箱第二季",第01集
+https://v.lzcdn31.com/20261004/12346_dd328cdf/index.m3u8
 #EXTINF:-1 tvg-name="第02集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-10-04/202610041791107595.jpg" group-title="动漫 · 青之箱第二季",第02集
 https://v.lzcdn31.com/20261011/12604_16c49fad/index.m3u8
 #EXTINF:-1 tvg-name="第03集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-10-04/202610041791107595.jpg" group-title="动漫 · 青之箱第二季",第03集
@@ -1380,6 +1958,24 @@ https://v.lzcdn31.com/20261004/12347_7db8e96e/index.m3u8
 https://v.lzcdn31.com/20261011/12607_25b362fc/index.m3u8
 #EXTINF:-1 tvg-name="第03集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-10-04/202610041791107671.jpg" group-title="动漫 · 青之芦苇第二季",第03集
 https://v.lzcdn31.com/20261018/13214_7bb8b0b1/index.m3u8
+#EXTINF:-1 tvg-name="第01集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-10-03/202610031791041153.jpg" group-title="动漫 · 顶点武装",第01集
+https://v.lzcdn31.com/20261004/12285_6d1e9c22/index.m3u8
+#EXTINF:-1 tvg-name="第02集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-10-03/202610031791041153.jpg" group-title="动漫 · 顶点武装",第02集
+https://v.lzcdn31.com/20261010/12576_c066c742/index.m3u8
+#EXTINF:-1 tvg-name="第03集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-10-03/202610031791041153.jpg" group-title="动漫 · 顶点武装",第03集
+https://v.lzcdn31.com/20261017/13179_0bb15d54/index.m3u8
+#EXTINF:-1 tvg-name="第01集" tvg-logo="https://img.lzipic.com/upload/vod/20260820-1/fdb476dbe47218521a3d374dd99b0868.jpg" group-title="动漫 · 顶级气运，悄悄修练千年动态漫",第01集
+https://v.lzcdn31.com/20260820/10116_7a3bed1d/index.m3u8
+#EXTINF:-1 tvg-name="第02集" tvg-logo="https://img.lzipic.com/upload/vod/20260820-1/fdb476dbe47218521a3d374dd99b0868.jpg" group-title="动漫 · 顶级气运，悄悄修练千年动态漫",第02集
+https://v.lzcdn31.com/20260820/10117_c04a3034/index.m3u8
+#EXTINF:-1 tvg-name="第03集" tvg-logo="https://img.lzipic.com/upload/vod/20260820-1/fdb476dbe47218521a3d374dd99b0868.jpg" group-title="动漫 · 顶级气运，悄悄修练千年动态漫",第03集
+https://v.lzcdn31.com/20260820/10120_6443b68b/index.m3u8
+#EXTINF:-1 tvg-name="第04集" tvg-logo="https://img.lzipic.com/upload/vod/20260820-1/fdb476dbe47218521a3d374dd99b0868.jpg" group-title="动漫 · 顶级气运，悄悄修练千年动态漫",第04集
+https://v.lzcdn31.com/20260820/10119_54b09558/index.m3u8
+#EXTINF:-1 tvg-name="第05集" tvg-logo="https://img.lzipic.com/upload/vod/20260820-1/fdb476dbe47218521a3d374dd99b0868.jpg" group-title="动漫 · 顶级气运，悄悄修练千年动态漫",第05集
+https://v.lzcdn31.com/20260820/10118_552e7655/index.m3u8
+#EXTINF:-1 tvg-name="第06集" tvg-logo="https://img.lzipic.com/upload/vod/20260820-1/fdb476dbe47218521a3d374dd99b0868.jpg" group-title="动漫 · 顶级气运，悄悄修练千年动态漫",第06集
+https://v.lzcdn31.com/20260820/10121_c1b7cdaa/index.m3u8
 #EXTINF:-1 tvg-name="第01集" tvg-logo="https://img.lzipic.com/upload/vod/20260715-1/201f17baa4cc4f701fdd713e89164f33.webp" group-title="动漫 · 顾长歌：我！天命大反派",第01集
 https://v.lzcdn31.com/20260715/8466_2819daef/index.m3u8
 #EXTINF:-1 tvg-name="第02集" tvg-logo="https://img.lzipic.com/upload/vod/20260715-1/201f17baa4cc4f701fdd713e89164f33.webp" group-title="动漫 · 顾长歌：我！天命大反派",第02集
@@ -1392,6 +1988,18 @@ https://v.lzcdn31.com/20260722/8777_c615d0f3/index.m3u8
 https://v.lzcdn31.com/20260722/8776_8576830a/index.m3u8
 #EXTINF:-1 tvg-name="第06集" tvg-logo="https://img.lzipic.com/upload/vod/20260715-1/201f17baa4cc4f701fdd713e89164f33.webp" group-title="动漫 · 顾长歌：我！天命大反派",第06集
 https://v.lzcdn31.com/20260729/9042_31bdef29/index.m3u8
+#EXTINF:-1 tvg-name="第01集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-09-21/202609211789966434.jpg" group-title="动漫 · 飞出个未来第十四季",第01集
+https://v.lfthirtytwo.com/20260921/10765_0a4cc845/index.m3u8
+#EXTINF:-1 tvg-name="第02集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-09-21/202609211789966434.jpg" group-title="动漫 · 飞出个未来第十四季",第02集
+https://v.lfthirtytwo.com/20260921/10768_75a89ef2/index.m3u8
+#EXTINF:-1 tvg-name="第03集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-09-21/202609211789966434.jpg" group-title="动漫 · 飞出个未来第十四季",第03集
+https://v.lfthirtytwo.com/20260921/10763_600729ac/index.m3u8
+#EXTINF:-1 tvg-name="第04集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-09-21/202609211789966434.jpg" group-title="动漫 · 飞出个未来第十四季",第04集
+https://v.lfthirtytwo.com/20260921/10767_9d36cd83/index.m3u8
+#EXTINF:-1 tvg-name="第05集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-09-21/202609211789966434.jpg" group-title="动漫 · 飞出个未来第十四季",第05集
+https://v.lfthirtytwo.com/20260921/10764_6a4aefb9/index.m3u8
+#EXTINF:-1 tvg-name="第06集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-09-21/202609211789966434.jpg" group-title="动漫 · 飞出个未来第十四季",第06集
+https://v.lfthirtytwo.com/20260921/10770_d89d490b/index.m3u8
 #EXTINF:-1 tvg-name="第01集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-10-16/202610161792120346.jpg" group-title="动漫 · 鬼甲钟馗",第01集
 https://player.yzzyvip-35.com/20261016/19114_5e4c4233/index.m3u8
 #EXTINF:-1 tvg-name="第02集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-10-16/202610161792120346.jpg" group-title="动漫 · 鬼甲钟馗",第02集
@@ -1404,12 +2012,26 @@ https://player.yzzyvip-35.com/20261016/19117_7c016509/index.m3u8
 https://player.yzzyvip-35.com/20261016/19118_cc34f605/index.m3u8
 #EXTINF:-1 tvg-name="第06集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-10-16/202610161792120346.jpg" group-title="动漫 · 鬼甲钟馗",第06集
 https://player.yzzyvip-35.com/20261016/19119_2dec8d12/index.m3u8
+#EXTINF:-1 tvg-name="第01集" tvg-logo="https://img.lzipic.com/upload/vod/20260925-1/0b221612c5f51fbca616adcd9dd4e2cd.webp" group-title="动漫 · 魔法★探险家",第01集
+https://v.lzcdn31.com/20261004/12287_b2b95c59/index.m3u8
+#EXTINF:-1 tvg-name="第02集" tvg-logo="https://img.lzipic.com/upload/vod/20260925-1/0b221612c5f51fbca616adcd9dd4e2cd.webp" group-title="动漫 · 魔法★探险家",第02集
+https://v.lzcdn31.com/20261004/12288_3c6fd033/index.m3u8
+#EXTINF:-1 tvg-name="第03集" tvg-logo="https://img.lzipic.com/upload/vod/20260925-1/0b221612c5f51fbca616adcd9dd4e2cd.webp" group-title="动漫 · 魔法★探险家",第03集
+https://v.lzcdn31.com/20261011/12579_2fae29e2/index.m3u8
+#EXTINF:-1 tvg-name="第04集" tvg-logo="https://img.lzipic.com/upload/vod/20260925-1/0b221612c5f51fbca616adcd9dd4e2cd.webp" group-title="动漫 · 魔法★探险家",第04集
+https://v.lzcdn31.com/20261018/13183_7c6bfb5d/index.m3u8
+#EXTINF:-1 tvg-name="第1集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-10-03/202610031791026137.jpg" group-title="动漫 · 魔法姐妹露露与莉莉2",第1集
+https://player.yzzyvip-35.com/20261003/18138_440be16e/index.m3u8
 #EXTINF:-1 tvg-name="第01集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-10-03/202610031791026137.jpg" group-title="动漫 · 魔法姐妹露露与莉莉2",第01集
 https://cdn.vvvip-plays33.cc/20261004/20702_775a90dc/index.m3u8
+#EXTINF:-1 tvg-name="第02集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-10-03/202610031791026137.jpg" group-title="动漫 · 魔法姐妹露露与莉莉2",第02集
+https://player.yzzyvip-35.com/20261011/18627_cc0f7d2f/index.m3u8
 #EXTINF:-1 tvg-name="第02集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-10-03/202610031791026137.jpg" group-title="动漫 · 魔法姐妹露露与莉莉2",第02集
 https://cdn.vvvip-plays33.cc/20261018/21439_4851be13/index.m3u8
 #EXTINF:-1 tvg-name="第01集" tvg-logo="https://fffgood.com/upload/vod/20261004-1/359cf1576ad5b0b3dd955d1d49f0b550.jpg" group-title="动漫 · 魔法姐妹露露与莉莉第二季",第01集
 https://vip.ffzy-plays.com/20261004/59076_0b89e80f/index.m3u8
+#EXTINF:-1 tvg-name="第02集" tvg-logo="https://fffgood.com/upload/vod/20261004-1/359cf1576ad5b0b3dd955d1d49f0b550.jpg" group-title="动漫 · 魔法姐妹露露与莉莉第二季",第02集
+https://vip.ffzy-plays.com/20261011/59371_ec0df1ac/index.m3u8
 #EXTINF:-1 tvg-name="第03集" tvg-logo="https://fffgood.com/upload/vod/20261004-1/359cf1576ad5b0b3dd955d1d49f0b550.jpg" group-title="动漫 · 魔法姐妹露露与莉莉第二季",第03集
 https://svip.feifei-play.com/20261018/46468_e0a1ea6d/index.m3u8
 #EXTINF:-1 tvg-name="第01集" tvg-logo="https://img.lzipic.com/upload/vod/20261007-1/ddd1dbe477402402cc18f09ae8efebd5.webp" group-title="动漫 · 魔法骑士雷阿斯",第01集
@@ -1420,3 +2042,9 @@ https://v.lzcdn31.com/20261014/12698_2771c1db/index.m3u8
 https://v.lzcdn31.com/20261005/12381_ce48aa78/index.m3u8
 #EXTINF:-1 tvg-name="第02集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-10-05/202610051791170897.jpg" group-title="动漫 · 黑暗召唤师在地下恋爱中",第02集
 https://v.lzcdn31.com/20261012/12630_ae3c99ec/index.m3u8
+#EXTINF:-1 tvg-name="第01集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-10-03/202610031791039928.jpg" group-title="动漫 · 黑色五叶草第二季",第01集
+https://v.lzcdn31.com/20261003/12282_8e22f710/index.m3u8
+#EXTINF:-1 tvg-name="第02集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-10-03/202610031791039928.jpg" group-title="动漫 · 黑色五叶草第二季",第02集
+https://v.lzcdn31.com/20261010/12577_119f877f/index.m3u8
+#EXTINF:-1 tvg-name="第03集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-10-03/202610031791039928.jpg" group-title="动漫 · 黑色五叶草第二季",第03集
+https://v.lzcdn31.com/20261017/13178_38bdb4a0/index.m3u8
