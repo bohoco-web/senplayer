@@ -1,6 +1,6 @@
 #EXTM3U
-# 拆自 vidhub.m3u · 生成于 2026-10-19 08:41
-# 类别：综艺（672 条）
+# 拆自 vidhub.m3u · 生成于 2026-10-19 09:58
+# 类别：综艺（685 条）
 # 这是「vidhub.m3u」全量片单按类别拆出来的一份，全量那份也还在。
 #EXTINF:-1 tvg-name="20220620" tvg-logo="https://pic.wujinpp.com/upload/vod/20210827-1/c3149883435bd5b56cb4b90a3ea9c7bc.jpg" group-title="综艺 · 11点热吵店",20220620
 https://vip.lz-cdn11.com/20220621/8836_1ac491d8/index.m3u8
@@ -16,6 +16,8 @@ https://vip.lz-cdn11.com/20220705/9140_990809f6/index.m3u8
 https://vip.lz-cdn11.com/20220705/9139_e8b33e3f/index.m3u8
 #EXTINF:-1 tvg-name="第01集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-07-11/202607111783752675.jpg" group-title="综艺 · HappyTogether-不是一个人真好",第01集
 https://v.lzcdn28.com/20260711/12568_e0427e86/index.m3u8
+#EXTINF:-1 tvg-name="第02集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-07-11/202607111783752675.jpg" group-title="综艺 · HappyTogether-不是一个人真好",第02集
+https://v.lzcdn28.com/20260718/12920_5b3b5dde/index.m3u8
 #EXTINF:-1 tvg-name="第03集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-07-11/202607111783752675.jpg" group-title="综艺 · HappyTogether-不是一个人真好",第03集
 https://v.lzcdn28.com/20260725/13284_c849da16/index.m3u8
 #EXTINF:-1 tvg-name="第04集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-07-11/202607111783752675.jpg" group-title="综艺 · HappyTogether-不是一个人真好",第04集
@@ -514,6 +516,12 @@ https://vip.lz-cdn11.com/20220706/9158_786b9aa8/index.m3u8
 https://vip.lz-cdn11.com/20220713/9324_71748778/index.m3u8
 #EXTINF:-1 tvg-name="20220716" tvg-logo="https://pic.wujinpp.com/upload/vod/20211010-1/8e12902d35e6c2cde50b1bf55b246db8.jpg" group-title="综艺 · 天才冲冲冲",20220716
 https://vip.lz-cdn11.com/20220721/9508_dbbfdafe/index.m3u8
+#EXTINF:-1 tvg-name="第01期" tvg-logo="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2160063244.jpg" group-title="综艺 · 天才：游戏的法则",第01期
+https://vip.ffzy-play2.com/20230115/22012_f933f611/index.m3u8
+#EXTINF:-1 tvg-name="第02期" tvg-logo="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2160063244.jpg" group-title="综艺 · 天才：游戏的法则",第02期
+https://vip.ffzy-play2.com/20230115/22013_45aa83db/index.m3u8
+#EXTINF:-1 tvg-name="第03期" tvg-logo="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2160063244.jpg" group-title="综艺 · 天才：游戏的法则",第03期
+https://vip.ffzy-play2.com/20230115/22014_27f8d448/index.m3u8
 #EXTINF:-1 tvg-name="第01集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-09-30/202609301790757536.jpg" group-title="综艺 · 契约婚姻",第01集
 https://v.lzcdn28.com/20260930/16393_6b5626e1/index.m3u8
 #EXTINF:-1 tvg-name="第02集" tvg-logo="https://pic3.yzzyimg.online/upload/vod/2026-09-30/202609301790757536.jpg" group-title="综艺 · 契约婚姻",第02集
@@ -534,14 +542,26 @@ https://vip.lz-cdn12.com/20220623/251_b1179ebf/index.m3u8
 https://vip.lz-cdn11.com/20220624/8899_92dbb02c/index.m3u8
 #EXTINF:-1 tvg-name="第1集" tvg-logo="https://img.lzipic.com/upload/vod/20260907-1/71a77515662664815ceea63001a0bedf.webp" group-title="综艺 · 女神配对计划2",第1集
 https://v.lzcdn28.com/20260907/15417_3f2ab112/index.m3u8
+#EXTINF:-1 tvg-name="第1集" tvg-logo="https://img.lzipic.com/upload/vod/20260907-1/71a77515662664815ceea63001a0bedf.webp" group-title="综艺 · 女神配对计划2",第1集
+https://fengbao12.com/video/nvshenpeiduijihua2/c3213999d45a/index.m3u8
 #EXTINF:-1 tvg-name="第2集" tvg-logo="https://img.lzipic.com/upload/vod/20260907-1/71a77515662664815ceea63001a0bedf.webp" group-title="综艺 · 女神配对计划2",第2集
 https://v.lzcdn28.com/20260914/15713_0313df87/index.m3u8
+#EXTINF:-1 tvg-name="第2集" tvg-logo="https://img.lzipic.com/upload/vod/20260907-1/71a77515662664815ceea63001a0bedf.webp" group-title="综艺 · 女神配对计划2",第2集
+https://fengbao12.com/video/nvshenpeiduijihua2/c74649ae68b4/index.m3u8
 #EXTINF:-1 tvg-name="第3集" tvg-logo="https://img.lzipic.com/upload/vod/20260907-1/71a77515662664815ceea63001a0bedf.webp" group-title="综艺 · 女神配对计划2",第3集
 https://v.lzcdn28.com/20260921/15997_e9dd5082/index.m3u8
+#EXTINF:-1 tvg-name="第3集" tvg-logo="https://img.lzipic.com/upload/vod/20260907-1/71a77515662664815ceea63001a0bedf.webp" group-title="综艺 · 女神配对计划2",第3集
+https://fengbao12.com/video/nvshenpeiduijihua2/16263dbb6e71/index.m3u8
 #EXTINF:-1 tvg-name="第4集" tvg-logo="https://img.lzipic.com/upload/vod/20260907-1/71a77515662664815ceea63001a0bedf.webp" group-title="综艺 · 女神配对计划2",第4集
 https://v.lzcdn28.com/20260928/16282_675289c7/index.m3u8
+#EXTINF:-1 tvg-name="第4集" tvg-logo="https://img.lzipic.com/upload/vod/20260907-1/71a77515662664815ceea63001a0bedf.webp" group-title="综艺 · 女神配对计划2",第4集
+https://fengbao13.com/video/nvshenpeiduijihua2/cd8f2fe541a8/index.m3u8
 #EXTINF:-1 tvg-name="第5集" tvg-logo="https://img.lzipic.com/upload/vod/20260907-1/71a77515662664815ceea63001a0bedf.webp" group-title="综艺 · 女神配对计划2",第5集
 https://v.lzcdn28.com/20261005/16568_bb471ba7/index.m3u8
+#EXTINF:-1 tvg-name="第5集" tvg-logo="https://img.lzipic.com/upload/vod/20260907-1/71a77515662664815ceea63001a0bedf.webp" group-title="综艺 · 女神配对计划2",第5集
+https://fengbao13.com/video/nvshenpeiduijihua2/66dab85d3200/index.m3u8
+#EXTINF:-1 tvg-name="第6集" tvg-logo="https://img.lzipic.com/upload/vod/20260907-1/71a77515662664815ceea63001a0bedf.webp" group-title="综艺 · 女神配对计划2",第6集
+https://fengbao13.com/video/nvshenpeiduijihua2/2515ce5a7c2e/index.m3u8
 #EXTINF:-1 tvg-name="20220617" tvg-logo="https://pic.lzzypic.com/upload/vod/20221210-1/c455789abea6913b6b18baaf52ab530f.jpg" group-title="综艺 · 姊妹亮起来",20220617
 https://vip.lz-cdn11.com/20220618/8719_feca01f2/index.m3u8
 #EXTINF:-1 tvg-name="20220623" tvg-logo="https://pic.lzzypic.com/upload/vod/20221210-1/c455789abea6913b6b18baaf52ab530f.jpg" group-title="综艺 · 姊妹亮起来",20220623
@@ -604,6 +624,8 @@ https://super.ffzy-online6.com/20260928/42005_8d3594b2/index.m3u8
 https://super.ffzy-online6.com/20261004/42463_726f32a8/index.m3u8
 #EXTINF:-1 tvg-name="第05集" tvg-logo="https://fffgood.com/upload/vod/20260914-1/deae4cc90d741d78e02a9dd84eddea88.jpg" group-title="综艺 · 宝岛渔很大",第05集
 https://super.ffzy-online6.com/20261011/42970_e9dcae4d/index.m3u8
+#EXTINF:-1 tvg-name="第06集" tvg-logo="https://fffgood.com/upload/vod/20260914-1/deae4cc90d741d78e02a9dd84eddea88.jpg" group-title="综艺 · 宝岛渔很大",第06集
+https://super.ffzy-online6.com/20261017/43480_f619679b/index.m3u8
 #EXTINF:-1 tvg-name="20260726" tvg-logo="https://img.lzipic.com/upload/vod/20260726-1/1c27bce1d983b4cef2b50ee1f26c222a.jpg" group-title="综艺 · 家乡美食大赛",20260726
 https://v.lzcdn28.com/20260726/13323_f76e6e07/index.m3u8
 #EXTINF:-1 tvg-name="20260802" tvg-logo="https://img.lzipic.com/upload/vod/20260726-1/1c27bce1d983b4cef2b50ee1f26c222a.jpg" group-title="综艺 · 家乡美食大赛",20260802
@@ -1168,12 +1190,16 @@ https://vod.ffzy-bofang.com/20260907/2883_c3008b2c/index.m3u8
 https://vod.ffzy-bofang.com/20260908/2917_dfb84a11/index.m3u8
 #EXTINF:-1 tvg-name="20260912" tvg-logo="https://img.lzipic.com/upload/vod/20260914-1/cf2e9f3a80ba23c1a8857475e92c5e28.jpg" group-title="综艺 · 花甲少年之半熟朋友",20260912
 https://v.lfthirtytwo.com/20260913/10519_fc3179be/index.m3u8
+#EXTINF:-1 tvg-name="20260919" tvg-logo="https://img.lzipic.com/upload/vod/20260914-1/cf2e9f3a80ba23c1a8857475e92c5e28.jpg" group-title="综艺 · 花甲少年之半熟朋友",20260919
+https://v.lzcdn28.com/20260921/15995_1b88b678/index.m3u8
 #EXTINF:-1 tvg-name="20260926" tvg-logo="https://img.lzipic.com/upload/vod/20260914-1/cf2e9f3a80ba23c1a8857475e92c5e28.jpg" group-title="综艺 · 花甲少年之半熟朋友",20260926
 https://v.lzcdn28.com/20260928/16284_02737fff/index.m3u8
 #EXTINF:-1 tvg-name="20261003" tvg-logo="https://img.lzipic.com/upload/vod/20260914-1/cf2e9f3a80ba23c1a8857475e92c5e28.jpg" group-title="综艺 · 花甲少年之半熟朋友",20261003
 https://v.lzcdn28.com/20261005/16581_b9a67dfb/index.m3u8
 #EXTINF:-1 tvg-name="20261010" tvg-logo="https://img.lzipic.com/upload/vod/20260914-1/cf2e9f3a80ba23c1a8857475e92c5e28.jpg" group-title="综艺 · 花甲少年之半熟朋友",20261010
 https://v.lzcdn28.com/20261013/16954_cd223424/index.m3u8
+#EXTINF:-1 tvg-name="20261017" tvg-logo="https://img.lzipic.com/upload/vod/20260914-1/cf2e9f3a80ba23c1a8857475e92c5e28.jpg" group-title="综艺 · 花甲少年之半熟朋友",20261017
+https://v.lzcdn28.com/20261018/17122_0d492262/index.m3u8
 #EXTINF:-1 tvg-name="第01集" tvg-logo="https://img.lzipic.com/upload/vod/20260915-1/29a3a45bc1d5fb057bced69aa1bc06b2.jpg" group-title="综艺 · 蓝朋友·旅朋友",第01集
 https://v.lzcdn28.com/20260915/15776_6d3e00d4/index.m3u8
 #EXTINF:-1 tvg-name="第02集" tvg-logo="https://img.lzipic.com/upload/vod/20260915-1/29a3a45bc1d5fb057bced69aa1bc06b2.jpg" group-title="综艺 · 蓝朋友·旅朋友",第02集
